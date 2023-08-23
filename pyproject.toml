@@ -17,6 +17,7 @@ ics = "^0.7.2"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.25.1"
+black = "^23.7.0"
 
 [build-system]
 requires = ["poetry-core"]
