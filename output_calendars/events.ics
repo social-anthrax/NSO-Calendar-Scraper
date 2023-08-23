@@ -1,0 +1,568 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20230823T113000Z
+DTEND:20230823T140000Z
+SUMMARY:Breakfast For Students Only
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations:</strong> Hill, Kings Court English House, and 1920 Commons dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T131500Z
+DTEND:20230823T140000Z
+SUMMARY:Exchange/IGSP Check-In
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Meet other IGSP and Exchange students. Receive your NSO wristband.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T140000Z
+DTEND:20230823T150000Z
+SUMMARY:Exchange/IGSP Welcome Session
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Get acquainted with your new university!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T140000Z
+DTEND:20230823T150000Z
+SUMMARY:Resources For Students With Disabilities
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Learn about services, resources, and policies.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T140000Z
+DTEND:20230823T153000Z
+SUMMARY:Transfer Student Info Session II
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Upper-level transfers will let you know essential information all Penn students should know about Penn and Philly. </p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T140000Z
+DTEND:20230823T160000Z
+SUMMARY:Scavenger Hunt
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Get better acquainted with the campus by going on this scavenger hunt! The winning team is rewarded with great prizes!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Rain Location: Meyerson B1</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T140000Z
+DTEND:20230823T160000Z
+SUMMARY:Navigating the First-Generation and/or Limited Income Experience at Penn
+DESCRIPTION:<!-- wp:paragraph -->\n<p>One of the best parts of Penn is the amazingly supportive faculty and staff who help you succeed on your journey! Join them for this interactive session on making the most of your college experience.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T150000Z
+DTEND:20230823T160000Z
+SUMMARY:Penn Violence Prevention & Public Safety Session
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Hear about how to stay safe on campus and in Philadelphia.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T153000Z
+DTEND:19700101T000000Z
+SUMMARY:tPHIN-Led Lunch
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Chat with friends and meet new transfer students while trying Penn dining cafes. </p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T160000Z
+DTEND:20230823T180000Z
+SUMMARY:Libraries Showcase
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Explore the Penn Libraries’ research materials, high- tech equipment, study spaces, and services that help students succeed.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T170000Z
+DTEND:20230823T180000Z
+SUMMARY:Introduction To Penn’s Vibrant Cultural Resource Centers
+DESCRIPTION:<!-- wp:paragraph -->\n<p>The college student experience is exciting because it is so multifaceted, ranging from academics and co-curricular engagement to residential life and alumni mentorship. Penn’s ongoing commitment to diversity, equity, inclusion, and belonging is reflected within each of these facets. Our Cultural Resource Centers represent that commitment, offering a vibrant array of intercultural experiences, transformative learning opportunities, and meaningful leadership development, as students learn about themselves, their peers, and the diverse communities in which they exist. Come learn from students and staff about how these spaces enrich students’ lives. </p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T173000Z
+DTEND:20230823T183000Z
+SUMMARY:Wellness at Penn Session
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Learn more about the services offered including physical, mental, and public health, as well as tips on managing stress and other challenges that international students may experience.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T173000Z
+DTEND:20230823T200000Z
+SUMMARY:International Student Info Session
+DESCRIPTION:<!-- wp:paragraph -->\n<p>This mandatory information session will introduce students to staff from International Student and Scholar Services (ISSS) and its key immigration services and integration programs. It will also feature members from the Assembly of International Students (AIS) who will talk about life at Penn as an international student. There will be trivia at the end where you could win a prize!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T180000Z
+DTEND:20230823T200000Z
+SUMMARY:Philly Fun Tours
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join the PHINS to learn more about fun, no-to-low-cost places to visit for fun in Philly. SEPTA (bus, subway passes) will be provided. Visit places like Magic Gardens, Old City, Bartram’s Garden, Chinatown, and more!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T183000Z
+DTEND:20230823T193000Z
+SUMMARY:Penn Parent Orientation Panel: Meet The Experts
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Penn experts will provide an overview of resources available to students and how parents can help their students succeed at Penn. Information covered will include housing, academics, safety, health, and finances. Panelists include: </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>Chaz Howard, Vice President for Social Equity and Community</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Karu Kozuma, Vice Provost for University Life</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Benoit Dube, Chief Wellness Office </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Kathleen Shields Anderson, Vice President for Public Safety</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Matt Sessa, Associate Vice President of Student Registration and Financial Services </li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T193000Z
+DTEND:20230823T210000Z
+SUMMARY:Exchange/IGSP New Student Social
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Get to know your fellow exchange and IGSP students during this new student social time.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T200000Z
+DTEND:20230823T204500Z
+SUMMARY:President and Provost’s First-Year Family Welcome
+DESCRIPTION:<!-- wp:paragraph -->\n<p>First-year families join President Magill and Provost John Jackson at the steps of College Hall for their official Welcome to Penn; light refreshments served.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230823T233000Z
+DTEND:20230823T233000Z
+SUMMARY:College House Meetings And Activities For Students Only
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Attendance is required for mandatory College House meetings and activities with House staff. Check with your RA, House Coordinator, or House Director for more information.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T110000Z
+DTEND:20230824T133000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+SUMMARY:Placement Exams
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T113000Z
+DTEND:20230824T140000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+SUMMARY:Breakfast
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations:</strong> Hill, Kings Court English House, and 1920 Commons dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T133000Z
+DTEND:20230824T150000Z
+SUMMARY:Welcome To Penn Groups 1-60
+DESCRIPTION:<!-- wp:paragraph -->\n<p>The Welcome to Penn session offers first-years a chance to hear from campus resources who provide support services throughout their undergraduate career. Speakers include represenatives from New Student Orientation & Academic Initiatives, University Life, Public Safety, Campus Health, PVP, and more! Students will receive their NSO wristbands upon entry. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>9:30am-11am: Groups 1-60</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>2pm-3:30pm: Groups 61-120</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T133000Z
+DTEND:20230825T030000Z
+SUMMARY:PHINS Orientation Group Activities 61-120
+DESCRIPTION:<!-- wp:paragraph -->\n<p>PHINS Orientation Group Activities give first-years an opportunity to meet their orientation leader and engage with classmates. Small groups explore the energetic campus landscape while getting acquainted with Penn’s resource centers, dining cafes, and academic buildings. See <a href="http://mymandatoryevents.com/">mymandatoryevents.com</a> for your PHINS Orientation Group information and your personalized schedule of mandatory NSO events including dates, times, and locations. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>9:30am-11am: Groups 61-120</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>2pm-3:30pm: Groups 1-60 </li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p><strong>Location:</strong> Meet outside your College House. Look for your PHINS Orientation Leader holding their group sign.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T140000Z
+DTEND:20230824T144500Z
+SUMMARY:ISSS Acculturation Workshop
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Engage in a workshop to think critically and prepare for your time abroad.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T140000Z
+DTEND:20230824T160000Z
+SUMMARY:Transfer Advising Session: The College
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Get instructions on The College’s procedures, policies, requirements, and curricular options. </p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T144500Z
+DTEND:20230824T153000Z
+SUMMARY:Resources Overview & Academic Integrity Session
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Learn more about academic support resources from the Weingarten Learning Resources Center. Discussions include rules regarding plagiarism and cheating at Penn.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T153000Z
+DTEND:19700101T000000Z
+SUMMARY:tPHIN-Led Lunch
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Chat with friends and meet new transfer students while trying Penn dining cafes. </p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T173000Z
+DTEND:20230824T200000Z
+SUMMARY:Philly Walking Tours
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join transfers for a tour throughout West Philly. We will all go as one big group (tPHINS and new transfers together) and take the SEPTA to center city, visiting Reading Terminal and other notable places along the way.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T180000Z
+DTEND:20230824T190000Z
+SUMMARY:College Advising Session
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Meet with advisors from your admitting school and learn about advising support and policy at Penn.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T180000Z
+DTEND:20230824T190000Z
+SUMMARY:SEAS Advising Session
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Meet with advisors from your admitting school and learn about advising support and policy at Penn.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T180000Z
+DTEND:20230824T190000Z
+SUMMARY:Wharton Advising Session
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Meet with advisors from your admitting school and learn about advising support and policy at Penn.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T180000Z
+DTEND:20230824T193000Z
+SUMMARY:PHINS Orientation Group Activities 1-60 
+DESCRIPTION:<!-- wp:paragraph -->\n<p>PHINS Orientation Group Activities give first-years an opportunity to meet their orientation leader and engage with classmates. Small groups explore the energetic campus landscape while getting acquainted with Penn’s resource centers, dining cafes, and academic buildings. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>See mymandatoryevents.com for your PHINS Orientation Group information and your personalized schedule of mandatory NSO events including dates, times, and locations. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>9:30am-11am: Groups 61-120</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>2pm-3:30pm: Groups 1-60 </li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p><strong>Location:</strong> Meet outside your College House. Look for your PHINS Orientation Leader holding their group sign</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T180000Z
+DTEND:20230824T193000Z
+SUMMARY:Welcome To Penn Groups 61-120
+DESCRIPTION:<!-- wp:paragraph -->\n<p>The Welcome to Penn session offers first-years a chance to hear from campus resources who provide support services throughout their undergraduate career. Speakers include represenatives from New Student Orientation & Academic Initiatives, University Life, Public Safety, Campus Health, PVP, and more! Students will receive their NSO wristbands upon entry. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>9:30am-11am: Groups 1-60</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>2pm-3:30pm: Groups 61-120</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T183000Z
+DTEND:20230824T193000Z
+SUMMARY:IGSP Advising Sessions
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Sign up on Canvas!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T193000Z
+DTEND:20230824T203000Z
+SUMMARY:Campus Tour
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Get acquainted with Penn’s resources and buildings throughout campus!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T200000Z
+DTEND:20230824T220000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+SUMMARY:Placement Exams
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T210000Z
+DTEND:20230825T000000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
+SUMMARY:Dinner
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations: </strong>Hill, 1920 Commons, Lauder, Kings Court English House & Falk Hillel dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Kosher meals are available from 5pm-7pm at <strong>Falk at Penn Hillel</strong> located at 215 S 39th Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230824T230000Z
+DTEND:20230825T010000Z
+SUMMARY:Penn Traditions, Highball to Hey Day
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Penn Traditions wants to introduce every first-year student to all the fantastic events that will occur throughout their time at Penn through the Highball to Hey Day Carnival. Win prizes, learn about each tradition like Hey Day for Juniors and toast throwing at football games, eat food, and play games. Here, you can experience the first tradition that occurs- signing your class banner that will be used for years to come and reappear at your graduation! And don’t forget to grab your class pennant to hang up in your dorm room!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T010000Z
+DTEND:20230825T030000Z
+SUMMARY:Comedy Night
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Enjoy an evening of laughs with professional stand-up comedians! First come, first served. NSO wristbands are required for admission.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href="https://nso.upenn.edu/events/comedy-night/">Read more information on our Comedy Night page</a>.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T110000Z
+DTEND:20230825T133000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+SUMMARY:Placement Exams
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T113000Z
+DTEND:20230825T140000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+SUMMARY:Breakfast
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations:</strong> Hill, Kings Court English House, and 1920 Commons dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T133000Z
+DTEND:20230825T150000Z
+SUMMARY:Penn Celebrates The Arts Groups 1-60
+DESCRIPTION:<!-- wp:paragraph -->\n<p>PCTA allows first-years to participate in a large town hall style meeting to explore the importance of the arts at Penn and in Philadelphia, and the many ways our students and alumni have incorporated them into their education and beyond. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>9:30am-11am: Groups 1-60 </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>2pm-3:30pm: Groups 61-120</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T133000Z
+DTEND:20230825T200000Z
+SUMMARY:Penn Violence Prevention Consent Circles
+DESCRIPTION:<!-- wp:paragraph -->\n<p>PVP Consent Circles build community, share resources, and normalize conversations on supporting individuals who have experienced interpersonal violence. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>9:30am-10:45am: Groups 61-90 </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>11am-12:15pm: Groups 91-120 </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>1:15pm-2:30pm: Groups 1-30 </li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>2:45pm-4pm: Groups 31-60</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>See <a href="http://mymandatoryevents.com/">mymandatoryevents.com</a> for your personalized schedule of mandatory NSO events including dates, times, and PVP Consent Circles classroom locations.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T140000Z
+DTEND:20230825T160000Z
+SUMMARY:Transfer Student Info Session III
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Receive critical information about Penn’s websites, including Path@Penn. Hear from various offices regarding the resources available to you. Please bring your laptops.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T150000Z
+DTEND:20230825T160000Z
+SUMMARY:Transfer Advising Session: Nursing
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Have your transfer credit and plan of study questions answered during this advising session with Penn Nursing.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T150000Z
+DTEND:20230825T170000Z
+SUMMARY:The Houston Hurrah!!
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join us in Houston Hall for the one of the biggest hurrah’s of the year! Your student center will be hosting an extravaganza of events including drag queen bingo, indoor roller skating, trivia, carnival food stations and more! Don’t miss your chance to win with giveaways happening throughout the night. Get ready to celebrate your first weekend at Penn!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T150000Z
+DTEND:20230825T180000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
+SUMMARY:Lunch
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations: </strong>Hill, 1920 Commons, Lauder, Kings Court English House & Falk Hillel dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Kosher meals are available from 11am-2pm at <strong>Falk at Penn Hillel</strong> located at 215 S 39th Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T170000Z
+DTEND:20230825T193000Z
+SUMMARY:Afternoon Coffee & Board Games
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Relax and take some time to enjoy one of Penn students’ favorite coffee shop. Games and night refreshments provided.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T180000Z
+DTEND:20230825T193000Z
+SUMMARY:Penn Celebrates The Arts Groups 61-120
+DESCRIPTION:<!-- wp:paragraph -->\n<p>PCTA allows first-years to participate in a large town hall style meeting to explore the importance of the arts at Penn and in Philadelphia, and the many ways our students and alumni have incorporated them into their education and beyond. </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>9:30am-11am: Groups 1-60 </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>2pm-3:30pm: Groups 61-120</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T200000Z
+DTEND:20230825T220000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+SUMMARY:Placement Exams
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T210000Z
+DTEND:20230826T000000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
+SUMMARY:Dinner
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations: </strong>Hill, 1920 Commons, Lauder, Kings Court English House & Falk Hillel dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Kosher meals are available from 5pm-7pm at <strong>Falk at Penn Hillel</strong> located at 215 S 39th Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230825T220000Z
+DTEND:20230826T000000Z
+SUMMARY:Bookstore Social
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Welcome to Penn’s comprehensive and comfortable bookstore—a great place to shop and hang out. Enjoy music, desserts, and raffles!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230826T000000Z
+DTEND:20230826T020000Z
+SUMMARY:Waffles & Ice Cream Night
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join TSO and the Class Boards for a night filled with waffles, ice cream, and a selection of tasty toppings... a TSO tradition!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Rain Location: Starbucks Dining Room</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230826T000000Z
+DTEND:20230826T020000Z
+SUMMARY:Friday Night Lights & Class Of 2027 Class Photo
+DESCRIPTION:<!-- wp:paragraph -->\n<p>The Class Photo is a perfect way to grab dinner with friends and meet some more of your fellow classmates! New students will take their class photo, by spelling your class year on Franklin Field, a tradition that has existed for many years and represents your unity as the Class of 2027!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>First-year students receive class t-shirts and take over the historic Franklin Field for their official class photo. Play games, win prizes, meet the Penn Traditions staff, and engage with Penn Athletics teams at this fun and festive event!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230826T140000Z
+DTEND:20230826T153000Z
+SUMMARY:Farmer’s Market @ Clark Park
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Visit and explore the notable Clark Park Farmer’s Market with TSO.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230826T140000Z
+DTEND:20230826T180000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
+SUMMARY:Brunch
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations: </strong>Hill, 1920 Commons, Lauder, Kings Court English House & Falk Hillel dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Kosher meals are available at <strong>Falk at Penn Hillel</strong> located at 215 S 39th Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230826T150000Z
+DTEND:20230826T180000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
+SUMMARY:Preceptorials
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Engage with Penn faculty, staff, and students in these one-time educational sessions. Preceptorials showcase the cultural, social, and academic richness of our shared community as well as highlight topics on civic engagement, wellness, and the arts in Philadelphia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><br>Visit the <a href="https://nso.upenn.edu/programs/preceptorials/">Preceptorials page</a> for a complete list of offerings and registration information. </p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230826T180000Z
+DTEND:20230826T193000Z
+SUMMARY:Mentorship & Extracurricular Fair
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Learn about pre-major, pre-professional, mentorship, and extracurricular resources.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230826T180000Z
+DTEND:20230826T210000Z
+SUMMARY:Penntracks Walking Tours: Center City
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join your fellow classmates for free guided tours to Clark Park and Cira Green, and discover more about your new home!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Visit <a href="https://nso.upenn.edu/programs/penn-tracks/">PennTracks page</a> for details.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230826T223000Z
+DTEND:20230827T010000Z
+SUMMARY:An Evening at the Philadelphia Museum of Art
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join your classmates for a fun and inspiring evening at one of the world’s greatest art museums. Adventure through collections of Asian, European, American, and Contemporary art. Enjoy festive food (Kosher and Halal options available) while taking in a spectacular view of the Philadelphia skyline and tackling the famous Rocky Steps.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This is the gala event of NSO that everyone talks about! Enjoy music, dancing, and free admission to the world-class galleries! Dinner served at the museum.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Bus Locations: </p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>Between 37th and 38th Street on Spruce (Upper Quad Gate)</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Between 33th and 34th Street on Walnut (Hill)</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T010000Z
+DTEND:20230827T030000Z
+SUMMARY:NSO Speakeasy
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Bring your poetry, your guitar, or your award- winning essay and share your talents with your classmates. This open mic night features performances by the Class of 2027. Anyone can sign up to perform, or just come to hang out, listen, and check out the Writers House!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T013000Z
+DTEND:20230827T013000Z
+SUMMARY:Intercultural Greek Council Presents: Late Night Yard Show
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Enjoy music, food, and games with your fellow classmates, the Intercultural Greek Council, and Makuu at the Late Night Yard Show!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T140000Z
+DTEND:20230827T150000Z
+SUMMARY:Morning Yoga
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Find your inner zen with morning yoga(ish). BYO mat/towel and water!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T140000Z
+DTEND:20230827T180000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
+SUMMARY:Brunch
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations: </strong>Hill, 1920 Commons, Lauder, Kings Court English House & Falk Hillel dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Kosher meals are available at <strong>Falk at Penn Hillel</strong> located at 215 S 39th Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T150000Z
+DTEND:20230827T180000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
+SUMMARY:Preceptorials
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Engage with Penn faculty, staff, and students in these one-time educational sessions. Preceptorials showcase the cultural, social, and academic richness of our shared community as well as highlight topics on civic engagement, wellness, and the arts in Philadelphia.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><br>Visit the <a href="https://nso.upenn.edu/programs/preceptorials/">Preceptorials page</a> for a complete list of offerings and registration information. </p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T180000Z
+DTEND:20230827T200000Z
+SUMMARY:Boba & Brochures
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join TSO to learn about affinity organizations on campus and wellness opportunities for transfer students.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T180000Z
+DTEND:20230827T210000Z
+SUMMARY:Penntracks Walking Tours: West Philadelphia & University City
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join your fellow classmates for free guided tours to Clark Park and Cira Green, and discover more about your new home!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Visit <a href="https://nso.upenn.edu/programs/penn-tracks/">PennTracks page</a> for details.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T200000Z
+DTEND:20230827T220000Z
+SUMMARY:New & Old Transfer Student Mixer
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join TSO to socialize with transfers throughout Penn. Soft pretzels, cookies, brownies & more will be served.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Rain Location: Rodin Rooftop Lounge</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T210000Z
+DTEND:20230828T000000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
+SUMMARY:Dinner
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations: </strong>Hill, 1920 Commons, Lauder, Kings Court English House & Falk Hillel dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Kosher meals are available from 5pm-7pm at <strong>Falk at Penn Hillel</strong> located at 215 S 39th Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T220000Z
+DTEND:20230827T220000Z
+SUMMARY:Women’s Soccer: Penn Vs. Delaware
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Show your Red & Blue pride! Come support the Quakers as they take on the Blue Hens in Women’s Soccer.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T230000Z
+DTEND:20230828T010000Z
+SUMMARY:Dessert Reception at PAFA
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Second-year students are invited to enjoy dessert as they explore the various exhibits at the Pennsylvania Academy of the Fine Arts (PAFA).</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Bus locations below.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T000000Z
+DTEND:20230828T020000Z
+SUMMARY:Rexpo
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join Penn Recreation & Athletics for the Recreation Open House! Tour the five floors of recreation spaces with an interactive passport activity to learn and engage in Campus Recreation activities. Jump into some fitness demos, try the Rock Climbing Wall, pool party, visit the Sport Club Expo, and so much more! Talk with Campus Rec and Athletics staff about all the ways to stay healthy and active with your friends on campus. Enjoy a live DJ and raffle prizes!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T110000Z
+DTEND:20230828T140000Z
+SUMMARY:Placement Exams
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T113000Z
+DTEND:20230828T140000Z
+SUMMARY:Breakfast
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations:</strong> Hill, Kings Court English House, and 1920 Commons dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T133000Z
+DTEND:20230828T200000Z
+SUMMARY:School-Specific Events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T140000Z
+DTEND:20230828T151500Z
+SUMMARY:Wharton Transfer Experience Overview and Upper-Level Student Panel
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Learn about Wharton resources. Hear about the experiences of upper-level transfer students and ask questions.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T150000Z
+DTEND:20230828T180000Z
+SUMMARY:Lunch With Undergraduate Schools
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Check your Undergraduate School Specific schedule and contact your Peer Advisor, Cohort Leader, and/or OPA! for details!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T150000Z
+DTEND:20230828T180000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
+SUMMARY:Lunch
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations: </strong>Hill, 1920 Commons, Lauder, Kings Court English House & Falk Hillel dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Kosher meals are available from 11am-2pm at <strong>Falk at Penn Hillel</strong> located at 215 S 39th Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T180000Z
+DTEND:20230828T210000Z
+SUMMARY:SYO: Summerfest Skating
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Class Board presents: Re-connect with fellow peers in Center City while enjoying an afternoon of skating. Registration required.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T193000Z
+DTEND:20230828T200000Z
+SUMMARY:Transfer Advising Session: Engineering
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Learn about transferring credits, registration, and course selection for the School of Engineering.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T210000Z
+DTEND:20230829T000000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
+SUMMARY:Dinner
+DESCRIPTION:<!-- wp:paragraph -->\n<p><strong>Locations: </strong>Hill, 1920 Commons, Lauder, Kings Court English House & Falk Hillel dining cafes.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Hill House</strong> is located at 3333 Walnut Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>1920 Commons</strong> is located at 3800 Locust Walk.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Halal meals are available at Lauder, Kings Court <strong>English House</strong> located at 3465 Sansom Street.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Kosher meals are available from 5pm-7pm at <strong>Falk at Penn Hillel</strong> located at 215 S 39th Street.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T220000Z
+DTEND:20230829T010000Z
+SUMMARY:SYO: Phillies Game
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Class Board presents: Root for the Philadelphia Phillies as they take on the Los Angeles Angels. Registration required.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230828T230000Z
+DTEND:20230829T001500Z
+SUMMARY:Convocation
+DESCRIPTION:<!-- wp:paragraph -->\n<p></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Come together for your official welcome as the Class of 2027! It is the evening before the first day of classes and is a Penn Tradition that dates in its modern form to around 1894. Enjoy a live performance of <em>The Red and Blue</em>, the University of Pennsylvania School Song.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This formal ceremony inducts the Class of 2027 into the Penn community. Penn ID required for entry into the stadium.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><strong>Rain Location: </strong>The Palestra</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230829T001500Z
+DTEND:20230829T013000Z
+SUMMARY:President and Provost’s Reception
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Mingle with classmates and enjoy a delicious dessert reception to celebrate Convocation.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230829T160000Z
+DTEND:20230829T200000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230831
+SUMMARY:Fall Activities Fair
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Be re-introduced to the amazing student-run clubs, activities, and resources Penn has to offer. Each day is dedicated to highlighting different club categories.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230829T210000Z
+DTEND:20230829T223000Z
+SUMMARY:President’s Welcome Back Reception
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Join President Magill and your fellow classmates for free food, live music, giveaways and more! Registration and Penn ID required. Register by emailing: <a href="mailto:prespic@pobox.upenn.edu">prespic@pobox.upenn.edu</a></p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230830T160000Z
+DTEND:20230830T200000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230831
+SUMMARY:Fall Activities Fair
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Be re-introduced to the amazing student-run clubs, activities, and resources Penn has to offer. Each day is dedicated to highlighting different club categories.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230830T210000Z
+DTEND:20230830T230000Z
+SUMMARY:SYO: Spikeball Tournament
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Class Board presents: Create a team to compete with fellow classmates and friends in a game of spikeball! There will also be free merch and food! Registration required.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230831T150000Z
+DTEND:20230831T170000Z
+SUMMARY:Second-Year Day
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Come explore Penn resources and services available to second-year students. Enjoy refreshments while mingling with Class Board and enter to win great raffle prizes!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Rain Location: Gutmann Multi-Purpose Room</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230831T160000Z
+DTEND:20230831T200000Z
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230831
+SUMMARY:Fall Activities Fair
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Be re-introduced to the amazing student-run clubs, activities, and resources Penn has to offer. Each day is dedicated to highlighting different club categories.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230831T230000Z
+DTEND:20230831T230000Z
+SUMMARY:Student Performing Arts Night (SPAN)
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Student Performing Arts Night (SPAN) is a performance that features 50+ performing arts groups. It is designed to give students a taste of the wide variety of performing clubs on campus ahead of auditions season. Bring some friends and see all the talent Penn has to offer!</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230901T170000Z
+DTEND:20230901T193000Z
+SUMMARY:Kelly Writers House Activities Fair
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Want to get involved with projects at the Kelly Writers House? Come to the Kelly Writers House Activities Fair to learn about student-led Writers House activities and initiatives, including magazines, podcasts, writing groups, community outreach, zine making, film production, and more. You can meet student leaders and representatives of Bent Button, Doublespeak, Equilibria, Excelano, F-Word, the Fiber Arts Collective, Penn Moviegoer, Penn Appetit, Penn Review, Punch Bowl, Q-ine, Quake, Wharton IBR, the zine library, and other magazines and groups. All are welcome! Questions? Please contact Writers House director Jessica at <a href="mailto:jalowent@writing.upenn.edu">jalowent@writing.upenn.edu</a>.</p>\n<!-- /wp:paragraph -->
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230902T000000Z
+DTEND:20230902T000000Z
+SUMMARY:Mask & Wig and Bloomers Presents: Free Show!
+DESCRIPTION:<!-- wp:paragraph -->\n<p>Hey Penn students, NSO has finally come to a close. Are you OK? Classes started this week, and you could probably use a laugh. Well, thank goodness you saw this promo for Mask and Wig & Bloomers present: Free Show. Imagine Cirque Du Soleil meets Curious George: The Musical. That’s nothing like our show. But sounds cool, right? On Friday, September 1st, Penn’s two premier comedy groups will be performing some of their best sketches and musical numbers in a one-night-only, no-holds barred, anything goes extravaganza!</p>\n<!-- /wp:paragraph -->
+END:VEVENTEND:VCALENDAR
