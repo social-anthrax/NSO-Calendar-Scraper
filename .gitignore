@@ -3,3 +3,4 @@ nso.html
 .idea/
 .DS_Store
 geckodriver.log
+.vscode
