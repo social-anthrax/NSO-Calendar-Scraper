@@ -108,7 +108,8 @@ def process_event(record: RawEvent) -> Entry | None:
     cal_content = record.cal_str.splitlines()
     cal_content.insert(1, "PRODID:NSO_CAL")
 
-    # Cause whoever at NSO wrote this can't write ical's for shit and the end date is sometimes the epoch time.
+    # Cause whoever at NSO wrote this can't write ical's for shit and the end date is
+    # sometimes the epoch time.
     try:
         event = Calendar("\n".join(cal_content)).events.pop()
     except ValueError:
@@ -139,14 +140,15 @@ def process_event(record: RawEvent) -> Entry | None:
     if unchecked_description is not None:
         parsed_description = BS(
             unchecked_description, "html.parser"
-        ).text.strip()  # For some reason we get unformatted html in the text. Thanks NSO
+        ).text.strip()  # For some reason we get unformatted html in the text. Thanks NSO  # noqa: E501
         event.description += f"\n\n{parsed_description}"
     event.url = record.link
     return (event, record.audience)
 
 
 def collect_raw_entries() -> list[RawEvent]:
-    """Collects the raw entries for processing later. Allows for processing to occur in a different cell.
+    """Collects the raw entries for processing later.
+    Allows for processing to occur in a different cell.
 
     Returns:
         list[RawEvent|None]: List of raw events.
