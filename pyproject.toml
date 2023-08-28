@@ -19,6 +19,8 @@ tzdata = "^2023.3"
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.25.1"
 black = "^23.7.0"
+pre-commit = "^3.3.3"
+jupytext = "^1.15.1"
 
 [build-system]
 requires = ["poetry-core"]
