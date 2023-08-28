@@ -187,8 +187,6 @@ def inject_tz_info(cal_content: list[str]) -> list[str]:
 
 # %%
 # Define helper functions
-
-
 T = TypeVar("T")
 
 

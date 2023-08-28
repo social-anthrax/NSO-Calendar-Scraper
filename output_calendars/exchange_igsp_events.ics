@@ -2,280 +2,1112 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nWelcome to the College\n\n\nJoin the College Dean and Academic Advisors for a Welcome to the College event! Pick up lunch\, enjoy entertainment\, mix and mingle with advisors who will be wearing turquoise hats. Stroll through the “Exploration Expo” where programs and departments will be on hand to meet students\, talk about academic opportunities\, and answer questions. Get your expo card stamped by visiting four tables to receive a limited-edition College t-shirt. Timed entry to the event – check with your Peer Advisor.Location: Shoemaker GreenTime: 11am-1pm
-DTEND:20230828T170000Z
-DTSTART:20230828T150000Z
-SUMMARY:MANDATORY: College of Arts & Sciences Events
-UID:b2928b6b-dcff-4a12-b081-6e34ae9e07cf@b292.org
-URL:https://nso.upenn.edu/event/college-of-arts-sciences-events/?sd=1693195200&ed=1300&ad
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nMeet with advisors from your admitting school and learn about advising support and policy at Penn.
+DTEND:20230824T190000Z
+LOCATION:Houston Hall\, Ben Franklin Room:  Houston Hall\, Ben Franklin Room 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230824T180000Z
+SUMMARY:MANDATORY: College Advising Session
+UID:eff3f8ab-dc18-4e1e-9e84-fb5233b27258@eff3.org
+URL:https://nso.upenn.edu/event/college-advising-session/?sd=1692849600&ed=1500&ad
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 5pm-7pm at Falk at Penn Hillel located at 215 S 39th Street.
-DTEND:20230828T000000Z
-LOCATION:Various Locations
-DTSTART:20230827T210000Z
-SUMMARY:Dinner
-UID:40735fe2-0ce2-4a10-af0d-4bf4e1cee0dd@4073.org
-URL:https://nso.upenn.edu/event/dinner-6/?sd=1693094400&ed=2000&ad
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nThis mandatory information session will introduce students to staff from International Student and Scholar Services (ISSS) and its key immigration services and integration programs. It will also feature members from the Assembly of International Students (AIS) who will talk about life at Penn as an international student. There will be trivia at the end where you could win a prize!
+DTEND:20230823T200000Z
+LOCATION:Meyerson Hall B1:  Meyerson Hall B1 210 South 34th Street Philadelphia\, PA 19104.
+DTSTART:20230823T173000Z
+SUMMARY:MANDATORY: International Student Info Session
+UID:2a8867a9-dee5-45a8-8826-484bb23ed29a@2a88.org
+URL:https://nso.upenn.edu/event/international-student-info-session/?sd=1692763200&ed=1600&ad
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nEngage with Penn faculty\, staff\, and students in these one-time educational sessions. Preceptorials showcase the cultural\, social\, and academic richness of our shared community as well as highlight topics on civic engagement\, wellness\, and the arts in Philadelphia.\n\n\nVisit the Preceptorials page for a complete list of offerings and registration information.
-DTEND:20230826T180000Z
-LOCATION:Various Locations
-DTSTART:20230826T150000Z
-SUMMARY:Preceptorials
-UID:90453ea1-97c4-4db3-b117-9aa309b4e814@9045.org
-URL:https://nso.upenn.edu/event/preceptorials/?sd=1693022400&ed=1400&ad
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nThe Welcome to Penn session offers first-years a chance to hear from campus resources who provide support services throughout their undergraduate career. Speakers include represenatives from New Student Orientation & Academic Initiatives\, University Life\, Public Safety\, Campus Health\, PVP\, and more! Students will receive their NSO wristbands upon entry. \n\n\n\n9:30am-11am: Groups 1-60\n\n\n2pm-3:30pm: Groups 61-120
+DTEND:20230824T193000Z
+LOCATION:Irvine Auditorium:  Irvine Auditorium 3401 Spruce Street Philadelphia\, PA 19104.
+DTSTART:20230824T180000Z
+SUMMARY:MANDATORY: Welcome To Penn Groups 61-120
+UID:3f4f8499-bd7a-4868-a202-266e9b5ac07b@3f4f.org
+URL:https://nso.upenn.edu/event/welcome-to-penn-groups-61-120/?sd=1692849600&ed=1530&ad
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nMingle with classmates and enjoy a delicious dessert reception to celebrate Convocation.
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nMingle with classmates and enjoy a delicious dessert reception to celebrate Convocation.
 DTEND:20230829T013000Z
 LOCATION:Shoemaker Green:  Shoemaker Green Smith Walk Philadelphia\, PA 19104.
 DTSTART:20230829T001500Z
 SUMMARY:MANDATORY: President and Provost’s Reception
-UID:7483d6e7-5de7-4d88-98ea-f5af691b48ae@7483.org
+UID:5b78cf97-4448-4a56-a4f4-0c54ed0cf3cc@5b78.org
 URL:https://nso.upenn.edu/event/president-and-provosts-reception-2/?sd=1693195200&ed=2130&ad
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nJoin your fellow classmates for free guided tours to Clark Park and Cira Green\, and discover more about your new home!\n\n\nVisit PennTracks page for details.
-DTEND:20230827T210000Z
-LOCATION:Various Locations
-DTSTART:20230827T180000Z
-SUMMARY:Penntracks Walking Tours: West Philadelphia & University City
-UID:b0969bd6-efa9-48f0-a714-b03c7e7b7e25@b096.org
-URL:https://nso.upenn.edu/event/penntracks-walking-tours-west-philadelphia-university-city/?sd=1693108800&ed=1700&ad
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nHave your transfer credit and plan of study questions answered during this advising session with Penn Nursing.
+DTEND:20230825T160000Z
+LOCATION:Fagin Hall Room 209:  Fagin Hall Room 209 418 Curie Boulevard Philadelphia\, PA 19104.
+DTSTART:20230825T150000Z
+SUMMARY:MANDATORY: Transfer Advising Session: Nursing
+UID:1d23199a-3afb-45e5-89c1-b49eed46975d@1d23.org
+URL:https://nso.upenn.edu/event/transfer-advising-session-nursing/?sd=1692936000&ed=1200&ad
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nBring your poetry\, your guitar\, or your award- winning essay and share your talents with your classmates. This open mic night features performances by the Class of 2027. Anyone can sign up to perform\, or just come to hang out\, listen\, and check out the Writers House!
-DTEND:20230827T030000Z
-LOCATION:Kelly Writers House:  Kelly Writers House 3805 Locust Walk Philadelphia \, PA 19104.
-DTSTART:20230827T010000Z
-SUMMARY:NSO Speakeasy
-UID:b62639e1-dd42-49c2-a0da-26e6325a17ad@b626.org
-URL:https://nso.upenn.edu/event/nso-speakeasy-2/?sd=1693022400&ed=2300&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nSecond-year students are invited to enjoy dessert as they explore the various exhibits at the Pennsylvania Academy of the Fine Arts (PAFA).\n\n\nBus locations below.
-DTEND:20230828T010000Z
-LOCATION:39th and Walnut streets & 39th and Spruce streets
-DTSTART:20230827T230000Z
-SUMMARY:Dessert Reception at PAFA
-UID:cb3f1260-8b59-4218-8d2a-9d8168e1e3e1@cb3f.org
-URL:https://nso.upenn.edu/event/dessert-reception-at-pafa/?sd=1693108800&ed=2100&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nLearn about transferring credits\, registration\, and course selection for the School of Engineering.
-DTEND:20230828T200000Z
-LOCATION:Towne Building\, Raiser Lounge\, Room 225:  Towne Building\, Raiser Lounge\, Room 225 220 South 33rd St Philadelphia \, PA 19104.
-DTSTART:20230828T193000Z
-SUMMARY:Transfer Advising Session: Engineering
-UID:b6dfa72e-fed6-436d-aada-09f43098a32e@b6df.org
-URL:https://nso.upenn.edu/event/transfer-advising-session-engineering-2/?sd=1693195200&ed=1600&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nVisit and explore the notable Clark Park Farmer’s Market with TSO.
-DTEND:20230826T153000Z
-LOCATION:Meet in front of Rodin:  Meet in front of Rodin 3901 Locust Walk Philadelphia \, PA 19104.
-DTSTART:20230826T140000Z
-SUMMARY:Farmer’s Market @ Clark Park
-UID:69713d14-cdd7-49e6-9d6b-07a1605552ea@6971.org
-URL:https://nso.upenn.edu/event/farmers-market-clark-park-2/?sd=1693022400&ed=1130&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nEnjoy music\, food\, and games with your fellow classmates\, the Intercultural Greek Council\, and Makuu at the Late Night Yard Show!
-DTEND:20230827T013000Z
-LOCATION:College Green:  College Green Benjamin Franklin Statue\, University of Pennsylvania Philadelphia\, PA 19104.
-DTSTART:20230827T013000Z
-SUMMARY:Intercultural Greek Council Presents: Late Night Yard Show
-UID:bc75ce2f-e3c5-4f71-804a-d1097d200d59@bc75.org
-URL:https://nso.upenn.edu/event/intercultural-greek-council-presents-late-night-yard-show/?sd=1693022400&ed&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nShow your Red & Blue pride! Come support the Quakers as they take on the Blue Hens in Women’s Soccer.
-DTEND:20230827T220000Z
-LOCATION:Penn Park:  Penn Park 3000 Walnut St Philadelphia\, PA 19104.
-DTSTART:20230827T220000Z
-SUMMARY:Women’s Soccer: Penn Vs. Delaware
-UID:3007cfdf-a713-4405-98fb-af375594eae0@3007.org
-URL:https://nso.upenn.edu/event/womens-soccer-penn-vs-delaware/?sd=1693108800&ed&ad
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available at Falk at Penn Hillel located at 215 S 39th Street.
-DTEND:20230827T180000Z
-LOCATION:Various Locations
-DTSTART:20230827T140000Z
-SUMMARY:Brunch
-UID:53541fe8-d967-41e7-8355-0662dffeb2c8@5354.org
-URL:https://nso.upenn.edu/event/brunch-3/?sd=1693108800&ed=1400&ad
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nEngage with Penn faculty\, staff\, and students in these one-time educational sessions. Preceptorials showcase the cultural\, social\, and academic richness of our shared community as well as highlight topics on civic engagement\, wellness\, and the arts in Philadelphia.\n\n\nVisit the Preceptorials page for a complete list of offerings and registration information.
-DTEND:20230827T180000Z
-LOCATION:Various Locations
-DTSTART:20230827T150000Z
-SUMMARY:Preceptorials
-UID:e7084bfb-96db-4c6f-832c-d5710628028d@e708.org
-URL:https://nso.upenn.edu/event/preceptorials/?sd=1693108800&ed=1400&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nJoin TSO to learn about affinity organizations on campus and wellness opportunities for transfer students.
-DTEND:20230827T200000Z
-LOCATION:Rodin Rooftop Lounge:  Rodin Rooftop Lounge 3901 Locust Walk Philadelphia\, PA 19104.
-DTSTART:20230827T180000Z
-SUMMARY:Boba & Brochures
-UID:a88f363d-c455-4b95-b6b9-fd7737472f6b@a88f.org
-URL:https://nso.upenn.edu/event/boba-brochures/?sd=1693108800&ed=1600&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nLearn about pre-major\, pre-professional\, mentorship\, and extracurricular resources.
-DTEND:20230826T193000Z
-LOCATION:Houston Hall\, Bodek Lounge:  Houston Hall\, Bodek Lounge 3417 Spruce St #307 Philadelphia\, PA 19104.
-DTSTART:20230826T180000Z
-SUMMARY:Mentorship & Extracurricular Fair
-UID:d9f8fb93-02b4-442d-b08f-a8ec591462bf@d9f8.org
-URL:https://nso.upenn.edu/event/mentorship-extracurricular-fair/?sd=1693022400&ed=1530&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nJoin your fellow classmates for free guided tours to Clark Park and Cira Green\, and discover more about your new home!\n\n\nVisit PennTracks page for details.
-DTEND:20230826T210000Z
-LOCATION:Various Locations
-DTSTART:20230826T180000Z
-SUMMARY:Penntracks Walking Tours: Center City
-UID:f06f6c79-9770-4a13-93cb-203a494afa06@f06f.org
-URL:https://nso.upenn.edu/event/penntracks-walking-tours-center-city/?sd=1693022400&ed=1700&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nCheck your Undergraduate School Specific schedule and contact your Peer Advisor\, Cohort Leader\, and/or OPA! for details!
-DTEND:20230828T180000Z
-LOCATION:Various Locations
-DTSTART:20230828T150000Z
-SUMMARY:Lunch With Undergraduate Schools
-UID:725f2790-6fe5-49a2-bc6d-f3d01279d32c@725f.org
-URL:https://nso.upenn.edu/event/lunch-with-undergraduate-schools/?sd=1693195200&ed=1400&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nClass Board presents: Root for the Philadelphia Phillies as they take on the Los Angeles Angels. Registration required.
-DTEND:20230829T010000Z
-LOCATION:Citizens Bank Park:  Citizens Bank Park 1 Citizens Bank Way Philadelphia\, PA 19148.
-DTSTART:20230828T220000Z
-SUMMARY:SYO: Phillies Game
-UID:6b56e807-da65-4943-bd6d-93112fc9a18a@6b56.org
-URL:https://nso.upenn.edu/event/syo-phillies-game/?sd=1693195200&ed=2100&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nJoin Penn Recreation & Athletics for the Recreation Open House! Tour the five floors of recreation spaces with an interactive passport activity to learn and engage in Campus Recreation activities. Jump into some fitness demos\, try the Rock Climbing Wall\, pool party\, visit the Sport Club Expo\, and so much more! Talk with Campus Rec and Athletics staff about all the ways to stay healthy and active with your friends on campus. Enjoy a live DJ and raffle prizes!
-DTEND:20230828T020000Z
-LOCATION:Pottruck Health and Fitness Center:  Pottruck Health and Fitness Center 3701 Walnut St Philadelphia\, PA 19104.
-DTSTART:20230828T000000Z
-SUMMARY:Rexpo
-UID:1d7d694d-96b0-47aa-b01c-d1673a9ef325@1d7d.org
-URL:https://nso.upenn.edu/event/rexpo/?sd=1693108800&ed=2200&ad
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available at Falk at Penn Hillel located at 215 S 39th Street.
-DTEND:20230826T180000Z
-LOCATION:Various Locations
-DTSTART:20230826T140000Z
-SUMMARY:Brunch
-UID:cab33d72-0531-4631-a7bf-3e2fa5a8581e@cab3.org
-URL:https://nso.upenn.edu/event/brunch-3/?sd=1693022400&ed=1400&ad
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nJoin us in Houston Hall for the one of the biggest hurrah’s of the year! Your student center will be hosting an extravaganza of events including drag queen bingo\, indoor roller skating\, trivia\, carnival food stations and more! Don’t miss your chance to win with giveaways happening throughout the night. Get ready to celebrate your first weekend at Penn!
+DTEND:20230826T050000Z
+LOCATION:Houston Hall:  Houston Hall 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230826T030000Z
+SUMMARY:The Houston Hurrah!!
+UID:24c97d2b-61d7-41d5-a624-4a552e63722d@24c9.org
+URL:https://nso.upenn.edu/event/the-houston-hurrah/?sd=1692936000&ed=0100&ad
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 5pm-7pm at Falk at Penn Hillel located at 215 S 39th Street.
-DTEND:20230829T000000Z
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 5pm-7pm at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230825T000000Z
 LOCATION:Various Locations
-DTSTART:20230828T210000Z
+DTSTART:20230824T210000Z
 SUMMARY:Dinner
-UID:5b1a3b5a-7da2-4327-b57f-e4766ba6d90c@5b1a.org
-URL:https://nso.upenn.edu/event/dinner-6/?sd=1693180800&ed=2000&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nLocations: Hill\, Kings Court English House\, and 1920 Commons dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.
-DTEND:20230828T140000Z
-LOCATION:Various Locations
-DTSTART:20230828T113000Z
-SUMMARY:Breakfast
-UID:9f914784-dea2-4f5b-b110-e1e8dac4b814@9f91.org
-URL:https://nso.upenn.edu/event/breakfast-6/?sd=1693195200&ed=1000&ad
+UID:ca63555f-c6e0-49d6-a89a-cd37cfc7b4e8@ca63.org
+URL:https://nso.upenn.edu/event/dinner-6/?sd=1692849600&ed=2000&ad
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 11am-2pm at Falk at Penn Hillel located at 215 S 39th Street.
-DTEND:20230828T180000Z
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 11am-2pm at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230825T180000Z
 LOCATION:Various Locations
-DTSTART:20230828T150000Z
+DTSTART:20230825T150000Z
 SUMMARY:Lunch
-UID:5f5a5c41-a808-4950-864f-59c7f0c14522@5f5a.org
-URL:https://nso.upenn.edu/event/lunch/?sd=1693180800&ed=1400&ad
+UID:c12baf08-0824-44cc-99c1-7737ded125bf@c12b.org
+URL:https://nso.upenn.edu/event/lunch/?sd=1692936000&ed=1400&ad
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nCome together for your official welcome as the Class of 2027! It is the evening before the first day of classes and is a Penn Tradition that dates in its modern form to around 1894. Enjoy a live performance of The Red and Blue\, the University of Pennsylvania School Song.\n\n\nThis formal ceremony inducts the Class of 2027 into the Penn community. Penn ID required for entry into the stadium.\n\n\nRain Location: The Palestra
-DTEND:20230829T001500Z
-LOCATION:Franklin Field:  Franklin Field 235 S 33rd St Philadelphia\, PA 19104.
-DTSTART:20230828T230000Z
-SUMMARY:MANDATORY: Convocation
-UID:e9d6d7f1-e927-4484-b3d5-f56688919233@e9d6.org
-URL:https://nso.upenn.edu/event/convocation-3/?sd=1693195200&ed=2015&ad
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nTake a bus to IKEA to buy necessities for your room and pick up some freebies! The buses will depart campus every hour beginning at 9:30am and ending at 3:30pm. The buses will leave IKEA every hour beginning at 11am and ending at 5pm.
+DTEND:20230822T210000Z
+LOCATION:37th Street between Sansom & Chestnut
+DTSTART:20230822T130000Z
+SUMMARY:IKEA Shopping Trip
+UID:b3be1ca8-d898-4e8c-a3e3-a97cfd5cc73f@b3be.org
+URL:https://nso.upenn.edu/event/ikea-shopping-trip/?sd=1692676800&ed=1700&ad
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nLearn about Wharton resources. Hear about the experiences of upper-level transfer students and ask questions.
-DTEND:20230828T151500Z
-LOCATION:Huntsman Hall\, G95:  Huntsman Hall\, G95 3730 Walnut St Philadelphia \, PA 19104.
-DTSTART:20230828T140000Z
-SUMMARY:MANDATORY: Wharton Transfer Experience Overview and Upper-Level Student Panel
-UID:d7b05dd9-a5c4-4a74-9172-2a9aafdc27bb@d7b0.org
-URL:https://nso.upenn.edu/event/wharton-transfer-experience-overview-and-upper-level-student-panel/?sd=1693195200&ed=1115&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International
-DTEND:20230828T140000Z
-LOCATION:Various Locations
-DTSTART:20230828T110000Z
-SUMMARY:Placement Exams
-UID:be4cdfee-69e3-4e44-8957-226b995962ca@be4c.org
-URL:https://nso.upenn.edu/event/placement-exams-6/?sd=1693195200&ed=1000&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nFind your inner zen with morning yoga(ish). BYO mat/towel and water!
-DTEND:20230827T150000Z
-LOCATION:High Rise Lawn
-DTSTART:20230827T140000Z
-SUMMARY:Morning Yoga
-UID:30e58018-324f-4da7-b805-114bc3d31685@30e5.org
-URL:https://nso.upenn.edu/event/morning-yoga/?sd=1693108800&ed=1100&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nJoin TSO to socialize with transfers throughout Penn. Soft pretzels\, cookies\, brownies & more will be served.\n\n\nRain Location: Rodin Rooftop Lounge
-DTEND:20230827T220000Z
-LOCATION:Gutmann College House Lawn
-DTSTART:20230827T200000Z
-SUMMARY:New & Old Transfer Student Mixer
-UID:bc456c3e-ae7f-4f8f-a55a-30b64e031aa5@bc45.org
-URL:https://nso.upenn.edu/event/new-old-transfer-student-mixer/?sd=1693108800&ed=1800&ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nClass Board presents: Re-connect with fellow peers in Center City while enjoying an afternoon of skating. Registration required.
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nClass Board presents: Re-connect with fellow peers in Center City while enjoying an afternoon of skating. Registration required.
 DTEND:20230828T210000Z
 LOCATION:Penn’s Landing
 DTSTART:20230828T180000Z
 SUMMARY:SYO: Summerfest Skating
-UID:2f1ec6b9-c3ed-45ba-b34d-5143dd38ecfc@2f1e.org
+UID:b175dcc4-0603-4e7c-9893-7d3bb7f63743@b175.org
 URL:https://nso.upenn.edu/event/summerfest-skating/?sd=1693195200&ed=1700&ad
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Intended audience: First-Year Transfer Exchange/IGSP FGLI Second-Year International\n\nJoin your classmates for a fun and inspiring evening at one of the world’s greatest art museums. Adventure through collections of Asian\, European\, American\, and Contemporary art. Enjoy festive food (Kosher and Halal options available) while taking in a spectacular view of the Philadelphia skyline and tackling the famous Rocky Steps.\n\n\nThis is the gala event of NSO that everyone talks about! Enjoy music\, dancing\, and free admission to the world-class galleries! Dinner served at the museum.\n\n\nBus Locations: \n\n\n\nBetween 37th and 38th Street on Spruce (Upper Quad Gate)\n\n\nBetween 33th and 34th Street on Walnut (Hill)
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230822
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nThese interactive workshops will provide you with helpful tips on how to thrive at Penn in areas such as academics\, social and cultural integration\, health and well-being\, and more.
+DTEND:20230822T203000Z
+LOCATION:Perry World House:  Perry World House 3803 Locust Walk Philadelphia\, PA 19104.
+DTSTART:20230822T170000Z
+SUMMARY:Adapt to Penn Today (APT) Workshops
+UID:149d1b16-9d1c-4ae9-8b25-fd4ca8ba5c45@149d.org
+URL:https://nso.upenn.edu/event/adapt-to-penn-today-apt-workshops/?sd=1692676800&ed=1630&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nVisit and explore the notable Clark Park Farmer’s Market with TSO.
+DTEND:20230826T153000Z
+LOCATION:Meet in front of Rodin:  Meet in front of Rodin 3901 Locust Walk Philadelphia \, PA 19104.
+DTSTART:20230826T140000Z
+SUMMARY:Farmer’s Market @ Clark Park
+UID:7f4bde10-7027-4835-9627-6db34ff97157@7f4b.org
+URL:https://nso.upenn.edu/event/farmers-market-clark-park-2/?sd=1693022400&ed=1130&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nPenn experts will provide an overview of resources available to students and how parents can help their students succeed at Penn. Information covered will include housing\, academics\, safety\, health\, and finances. Panelists include: \n\n\n\nChaz Howard\, Vice President for Social Equity and Community\n\n\nKaru Kozuma\, Vice Provost for University Life\n\n\nBenoit Dube\, Chief Wellness Office \n\n\nKathleen Shields Anderson\, Vice President for Public Safety\n\n\nMatt Sessa\, Associate Vice President of Student Registration and Financial Services
+DTEND:20230823T193000Z
+LOCATION:Irvine Auditorium:  Irvine Auditorium 3401 Spruce Street Philadelphia\, PA 19104.
+DTSTART:20230823T183000Z
+SUMMARY:Penn Parent Orientation Panel: Meet The Experts
+UID:d4e2f857-de21-441b-ab19-54f4f08c76b7@d4e2.org
+URL:https://nso.upenn.edu/event/penn-parent-orientation-panel-meet-the-experts/?sd=1692763200&ed=1530&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nPVP Consent Circles build community\, share resources\, and normalize conversations on supporting individuals who have experienced interpersonal violence. \n\n\n\n9:30am-10:45am: Groups 61-90 \n\n\n11am-12:15pm: Groups 91-120 \n\n\n1:15pm-2:30pm: Groups 1-30 \n\n\n2:45pm-4pm: Groups 31-60\n\n\n\nSee mymandatoryevents.com for your personalized schedule of mandatory NSO events including dates\, times\, and PVP Consent Circles classroom locations.
+DTEND:20230825T200000Z
+LOCATION:Various Locations
+DTSTART:20230825T133000Z
+SUMMARY:MANDATORY: Penn Violence Prevention Consent Circles
+UID:eea040de-f10b-49b1-9e85-2956fe64837d@eea0.org
+URL:https://nso.upenn.edu/event/penn-violence-prevention-consent-circles/?sd=1692936000&ed=1600&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nJoin Penn Recreation & Athletics for the Recreation Open House! Tour the five floors of recreation spaces with an interactive passport activity to learn and engage in Campus Recreation activities. Jump into some fitness demos\, try the Rock Climbing Wall\, pool party\, visit the Sport Club Expo\, and so much more! Talk with Campus Rec and Athletics staff about all the ways to stay healthy and active with your friends on campus. Enjoy a live DJ and raffle prizes!
+DTEND:20230828T020000Z
+LOCATION:Pottruck Health and Fitness Center:  Pottruck Health and Fitness Center 3701 Walnut St Philadelphia\, PA 19104.
+DTSTART:20230828T000000Z
+SUMMARY:Rexpo
+UID:8ac440ac-6830-4443-8ca0-cf622ee1dc33@8ac4.org
+URL:https://nso.upenn.edu/event/rexpo/?sd=1693108800&ed=2200&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nFirst-year families join President Magill and Provost John Jackson at the steps of College Hall for their official Welcome to Penn\; light refreshments served.
+DTEND:20230823T204500Z
+LOCATION:College Hall:  College Hall 1 College Hall Philadelphia\, PA 19104.
+DTSTART:20230823T200000Z
+SUMMARY:President and Provost’s First-Year Family Welcome
+UID:9418c197-beb4-4953-b815-9c48aaca315f@9418.org
+URL:https://nso.upenn.edu/event/president-and-provosts-first-year-family-welcome-2/?sd=1692763200&ed=1645&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nPenn Traditions wants to introduce every first-year student to all the fantastic events that will occur throughout their time at Penn through the Highball to Hey Day Carnival. Win prizes\, learn about each tradition like Hey Day for Juniors and toast throwing at football games\, eat food\, and play games. Here\, you can experience the first tradition that occurs- signing your class banner that will be used for years to come and reappear at your graduation! And don’t forget to grab your class pennant to hang up in your dorm room!
+DTEND:20230825T010000Z
+LOCATION:College Green:  College Green Benjamin Franklin Statue\, University of Pennsylvania Philadelphia\, PA 19104.
+DTSTART:20230824T230000Z
+SUMMARY:Penn Traditions\, Highball to Hey Day
+UID:41c586ce-8efe-456a-9c61-90196ac9cce0@41c5.org
+URL:https://nso.upenn.edu/event/highball-to-hey-day/?sd=1692849600&ed=2100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nRelax and take some time to enjoy one of Penn students’ favorite coffee shop. Games and night refreshments provided.
+DTEND:20230825T193000Z
+LOCATION:The Board and Brew:  The Board and Brew 33rd & Chestnut\, 3200 Chestnut Street Philadelphia\, PA 19104.
+DTSTART:20230825T170000Z
+SUMMARY:Afternoon Coffee & Board Games
+UID:65785994-df2c-4c80-b0fa-f89bd783143c@6578.org
+URL:https://nso.upenn.edu/event/afternoon-coffee-board-games/?sd=1692936000&ed=1530&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nMeet with advisors from your admitting school and learn about advising support and policy at Penn.
+DTEND:20230824T190000Z
+LOCATION:Steinberg Hall – Dietrich Hall:  Steinberg Hall – Dietrich Hall 3620 Locust Walk Philadelphia\, PA 19014.
+DTSTART:20230824T180000Z
+SUMMARY:MANDATORY: Wharton Advising Session
+UID:9c356239-33da-4c0f-82b9-6a17659c4c10@9c35.org
+URL:https://nso.upenn.edu/event/wharton-advising-session/?sd=1692849600&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nWelcome to Penn’s comprehensive and comfortable bookstore—a great place to shop and hang out. Enjoy music\, desserts\, and raffles!
+DTEND:20230826T000000Z
+LOCATION:Penn Bookstore:  Penn Bookstore 3601 Walnut St Philadelphia\, PA 19104.
+DTSTART:20230825T220000Z
+SUMMARY:Bookstore Social
+UID:81fc50b0-96bf-4fa1-86fa-269916dec980@81fc.org
+URL:https://nso.upenn.edu/event/bookstore-social/?sd=1692936000&ed=2000&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nMeet the Penn Parents Outreach & Development team and pickup Penn giveaways.
+DTEND:20230822T190000Z
+LOCATION:Houston Hall\, Hall of Flags:  Houston Hall\, Hall of Flags 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230822T140000Z
+SUMMARY:Penn Parents & Families Info Station 
+UID:ff210dfd-74c4-4a51-901f-c5a7a87607ec@ff21.org
+URL:https://nso.upenn.edu/event/penn-parents-info-station/?sd=1692676800&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nThe Class Photo is a perfect way to grab dinner with friends and meet some more of your fellow classmates! New students will take their class photo\, by spelling your class year on Franklin Field\, a tradition that has existed for many years and represents your unity as the Class of 2027!\n\n\nFirst-year students receive class t-shirts and take over the historic Franklin Field for their official class photo. Play games\, win prizes\, meet the Penn Traditions staff\, and engage with Penn Athletics teams at this fun and festive event!
+DTEND:20230826T020000Z
+LOCATION:Franklin Field:  Franklin Field 235 S 33rd St Philadelphia\, PA 19104.
+DTSTART:20230826T000000Z
+SUMMARY:Friday Night Lights & Class Of 2027 Class Photo
+UID:be5bb741-3bf4-42cd-a609-2346e0d2047b@be5b.org
+URL:https://nso.upenn.edu/event/class-photo/?sd=1692936000&ed=2200&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nAttendance is required for mandatory College House meetings and activities with House staff. Check with your RA\, House Coordinator\, or House Director for more information.
+DTEND:20230823T233000Z
+LOCATION:Various Locations
+DTSTART:20230823T233000Z
+SUMMARY:MANDATORY: College House Meetings And Activities For Students Only
+UID:d24ec1ad-82bc-4252-9052-ceaf18fb118c@d24e.org
+URL:https://nso.upenn.edu/event/college-house-meetings-and-activities-for-students-only/?sd=1692763200&ed&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nExplore the Penn Libraries’ research materials\, high- tech equipment\, study spaces\, and services that help students succeed.
+DTEND:20230823T180000Z
+LOCATION:Van Pelt-Dietrich Library Center:  Van Pelt-Dietrich Library Center 3420 Walnut St Philadelphia\, PA 19104.
+DTSTART:20230823T160000Z
+SUMMARY:Libraries Showcase
+UID:5ceb8c15-4161-42b1-9993-95b58d8fa23f@5ceb.org
+URL:https://nso.upenn.edu/event/libraries-showcase/?sd=1692763200&ed=1400&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 5pm-7pm at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230828T000000Z
+LOCATION:Various Locations
+DTSTART:20230827T210000Z
+SUMMARY:Dinner
+UID:2c416d21-7116-4133-b7cc-551805f06097@2c41.org
+URL:https://nso.upenn.edu/event/dinner-6/?sd=1693108800&ed=2000&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer
+DTEND:20230828T140000Z
+LOCATION:Various Locations
+DTSTART:20230828T110000Z
+SUMMARY:Placement Exams
+UID:c7fcd7bc-0413-45ba-8867-a127dc8372cc@c7fc.org
+URL:https://nso.upenn.edu/event/placement-exams-6/?sd=1693195200&ed=1000&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nEnjoy a wonderful introduction to local restaurants and cuisines. Chat with new friends and tPHINS in a relaxing\, exciting\, atmosphere. Dinner provided.
+DTEND:20230823T010000Z
+LOCATION:Meet in front of Rodin:  Meet in front of Rodin 3901 Locust Walk Philadelphia \, PA 19104.
+DTSTART:20230822T223000Z
+SUMMARY:Small Group Dinners
+UID:2d8dabf7-c6fe-40cb-84a1-439de9422e10@2d8d.org
+URL:https://nso.upenn.edu/event/small-group-dinners-3/?sd=1692676800&ed=2100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLearn more about the services offered including physical\, mental\, and public health\, as well as tips on managing stress and other challenges that international students may experience.
+DTEND:20230823T183000Z
+LOCATION:Chemistry Building\, 102:  Chemistry Building\, 102 231 S 34th Street Philadelphia\, PA 19104.
+DTSTART:20230823T173000Z
+SUMMARY:MANDATORY: Wellness at Penn Session
+UID:1b51cd69-b31e-49b5-abf8-aa502a0d9cfd@1b51.org
+URL:https://nso.upenn.edu/event/wellness-at-penn-session/?sd=1692763200&ed=1430&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nStaff available to answer all of your questions.
+DTEND:20230823T190000Z
+LOCATION:34th & Walnut\, 37th & Locust\, College Green
+DTSTART:20230823T140000Z
+SUMMARY:NSO Hospitality Booths
+UID:b1e48397-234a-4c5a-b4d4-188396b71253@b1e4.org
+URL:https://nso.upenn.edu/event/nso-hospitality-booths/?sd=1692763200&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nStaff available to answer all of your questions.
+DTEND:20230822T190000Z
+LOCATION:34th & Walnut\, 37th & Locust\, College Green
+DTSTART:20230822T140000Z
+SUMMARY:NSO Hospitality Booths
+UID:fcdcfb9d-c61c-4be9-b09e-1469eb3e5d31@fcdc.org
+URL:https://nso.upenn.edu/event/nso-hospitality-booths/?sd=1692676800&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, Kings Court English House\, and 1920 Commons dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.
+DTEND:20230824T140000Z
+LOCATION:Various Locations
+DTSTART:20230824T113000Z
+SUMMARY:Breakfast
+UID:e9a9f820-6c67-4c89-b8c4-9bb0b869f5e7@e9a9.org
+URL:https://nso.upenn.edu/event/breakfast-5/?sd=1692849600&ed=1000&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nCome meet some international PHINS and get introduced to your fellow international classmates through a series of icebreaker activities!\n\n\nRain Location: Meyerson B1
+DTEND:20230822T160000Z
+LOCATION:College Green:  College Green Benjamin Franklin Statue\, University of Pennsylvania Philadelphia\, PA 19104.
+DTSTART:20230822T140000Z
+SUMMARY:Student Mentor Welcome Activities
+UID:0252081d-186b-4785-a33a-cc26c0f7b98b@0252.org
+URL:https://nso.upenn.edu/event/student-mentor-welcome-activities-2/?sd=1692676800&ed=1200&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 11am-2pm at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230828T180000Z
+LOCATION:Various Locations
+DTSTART:20230828T150000Z
+SUMMARY:Lunch
+UID:af69683c-1ba1-41d8-a585-2af911f036a2@af69.org
+URL:https://nso.upenn.edu/event/lunch/?sd=1693195200&ed=1400&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nA night of snacks and fun mocktails where students will be able to eat\, drink\, mingle\, and play classic games in an exciting atmosphere.
+DTEND:20230823T030000Z
+LOCATION:Houston Hall\, Hall of Flags:  Houston Hall\, Hall of Flags 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230823T000000Z
+SUMMARY:Game Night
+UID:eb3228fc-04df-43a5-9e0e-8f8a56c490a8@eb32.org
+URL:https://nso.upenn.edu/event/game-night/?sd=1692676800&ed=2300&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nMeet the Penn First Plus team\, pick up orientation materials\, and head over to Houston Hall to get introduced to the resources available at the New Student Resources Fair and Campus Express Center.
+DTEND:20230822T210000Z
+LOCATION:Shleifer Family Penn First Plus Center\, College Hall G01
+DTSTART:20230822T130000Z
+SUMMARY:First-Generation and/or Limited Income Student Welcome Center
+UID:3bd3a3fa-dfb2-459b-a78c-7fd5ea8ad16b@3bd3.org
+URL:https://nso.upenn.edu/event/first-generation-and-or-limited-income-student-welcome-center-2/?sd=1692676800&ed=1700&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nJoin your fellow classmates for free guided tours to discover more about your new home. Meet at College Green to leave for your tour!\n\n\nVisit PennTracks page for details.
+DTEND:20230827T210000Z
+LOCATION:Various Locations
+DTSTART:20230827T180000Z
+SUMMARY:Penntracks Walking Tours: West Philadelphia & University City
+UID:e3aa1032-8ca6-4c14-80cc-6eb1604d22b9@e3aa.org
+URL:https://nso.upenn.edu/event/penntracks-walking-tours-west-philadelphia-university-city/?sd=1693108800&ed=1700&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nDrop-in event for transfer families and students to mingle and learn about resources that can be important. Light refreshments will be provided.
+DTEND:20230822T160000Z
+LOCATION:Houston Hall\, Ben Franklin Room:  Houston Hall\, Ben Franklin Room 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230822T140000Z
+SUMMARY:Penn Parents & Families Welcome
+UID:b02f0ea2-2e6c-4382-b581-54ae3fec5bfb@b02f.org
+URL:https://nso.upenn.edu/event/penn-parents-families-welcome/?sd=1692676800&ed=1200&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nEnjoy an evening of laughs with professional stand-up comedians! First come\, first served. NSO wristbands are required for admission.\n\n\nRead more information on our Comedy Night page.
+DTEND:20230825T030000Z
+LOCATION:Irvine Auditorium:  Irvine Auditorium 3401 Spruce Street Philadelphia\, PA 19104.
+DTSTART:20230825T010000Z
+SUMMARY:Comedy Night
+UID:680a78cb-71d1-458b-968d-0afc4c61138d@680a.org
+URL:https://nso.upenn.edu/event/comedy-night-2/?sd=1692849600&ed=2300&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nLearn about transferring credits\, registration\, and course selection for the School of Engineering.
+DTEND:20230828T200000Z
+LOCATION:Towne Building\, Raiser Lounge\, Room 225:  Towne Building\, Raiser Lounge\, Room 225 220 South 33rd St Philadelphia \, PA 19104.
+DTSTART:20230828T193000Z
+SUMMARY:Transfer Advising Session: Engineering
+UID:8317a0d4-d28b-4919-983f-f1feb0e0d494@8317.org
+URL:https://nso.upenn.edu/event/transfer-advising-session-engineering-2/?sd=1693195200&ed=1600&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nPCTA allows first-years to participate in a large town hall style meeting to explore the importance of the arts at Penn and in Philadelphia\, and the many ways our students and alumni have incorporated them into their education and beyond. \n\n\n9:30am-11am: Groups 1-60 \n\n\n2pm-3:30pm: Groups 61-120
+DTEND:20230825T193000Z
+LOCATION:Irvine Auditorium:  Irvine Auditorium 3401 Spruce Street Philadelphia\, PA 19104.
+DTSTART:20230825T180000Z
+SUMMARY:MANDATORY: Penn Celebrates The Arts Groups 61-120
+UID:2cb3247b-93e0-48dc-ab07-db6475d46aa4@2cb3.org
+URL:https://nso.upenn.edu/event/penn-celebrates-the-arts-groups-61-120/?sd=1692936000&ed=1530&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nPHINS Orientation Group Activities give first-years an opportunity to meet their orientation leader and engage with classmates. Small groups explore the energetic campus landscape while getting acquainted with Penn’s resource centers\, dining cafes\, and academic buildings. \n\n\nSee mymandatoryevents.com for your PHINS Orientation Group information and your personalized schedule of mandatory NSO events including dates\, times\, and locations. \n\n\n\n9:30am-11am: Groups 61-120\n\n\n2pm-3:30pm: Groups 1-60 \n\n\n\nLocation: Meet outside your College House. Look for your PHINS Orientation Leader holding their group sign
+DTEND:20230824T193000Z
+LOCATION:Various Locations
+DTSTART:20230824T180000Z
+SUMMARY:MANDATORY: PHINS Orientation Group Activities 1-60 
+UID:ba5ce18b-7500-4143-976d-b001d2ae371b@ba5c.org
+URL:https://nso.upenn.edu/event/phins-orientation-group-activities-1-60/?sd=1692849600&ed=1530&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 5pm-7pm at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230829T000000Z
+LOCATION:Various Locations
+DTSTART:20230828T210000Z
+SUMMARY:Dinner
+UID:3ba1d71c-e3e0-4745-a14b-9dc29c4ba53d@3ba1.org
+URL:https://nso.upenn.edu/event/dinner-6/?sd=1693195200&ed=2000&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer
+DTEND:20230825T133000Z
+LOCATION:Various Locations
+DTSTART:20230825T110000Z
+SUMMARY:Placement Exams
+UID:7562c056-0b5e-46a5-a160-e098ba318ecf@7562.org
+URL:https://nso.upenn.edu/event/placement-exams-4/?sd=1692936000&ed=0930&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nWelcome to the College\n\n\nJoin the College Dean and Academic Advisors for a Welcome to the College event! Pick up lunch\, enjoy entertainment\, mix and mingle with advisors who will be wearing turquoise hats. Stroll through the “Exploration Expo” where programs and departments will be on hand to meet students\, talk about academic opportunities\, and answer questions. Get your expo card stamped by visiting four tables to receive a limited-edition College t-shirt. Timed entry to the event – check with your Peer Advisor.Location: Shoemaker GreenTime: 11am-1pm
+DTEND:20230828T170000Z
+DTSTART:20230828T150000Z
+SUMMARY:MANDATORY: College of Arts & Sciences Events
+UID:f29e1fb7-5965-479d-a658-b606be36139a@f29e.org
+URL:https://nso.upenn.edu/event/college-of-arts-sciences-events/?sd=1693195200&ed=1300&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nMeet the Penn Parents Outreach & Development team and PHINS orientation leaders. Enjoy light refreshments as you get your questions answered.
+DTEND:20230821T170000Z
+LOCATION:Houston Hall\, Reading Room:  Houston Hall\, Reading Room 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230821T150000Z
+SUMMARY:Penn Parents & Families Refreshment Station
+UID:fbc76c73-9e51-49b3-aa20-c2e2a498f340@fbc7.org
+URL:https://nso.upenn.edu/event/penn-parents-families-refreshment-station/?sd=1692590400&ed=1300&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nMeet Your OPA!\n\n\nMeet your OPA! at the designated spot to walk over together to the Dean's Meeting.Location: Check with your OPA!Time: 9:30am-9:45am\n\n\nPenn Engineering Dean's Meeting\n\n\nMeet the Dean and administrators from Research and Academic Services as you are welcomed to Penn Engineering. This information meeting will introduce you to Penn Engineering and provide you with an overview of the School.Location: Zellerbach\, Annenberg CenterTime: 10am-10:30am\n\n\nFun Activity with your OPA!\n\n\nLocation: Check with your OPA!Time: 10:30am-11:15am\n\n\nPenn Engineering Departmental Meeting\n\n\nMeet departmental faculty and staff in the major or program you plan to pursue at Penn. Locations will be announced at the Dean's meeting\, or ask your OPA! for details.Location: Check canvas for exact locationsTime: 11:30am-12pm\n\n\nLunch with OPA!s and Departmental Faculty\n\n\nGet to know the faculty and students in your department\, major\, and program over boxed lunches.Location: Check canvas for exact locationsTime: 12am-4pm
+DTEND:20230828T200000Z
+DTSTART:20230828T133000Z
+SUMMARY:MANDATORY: School of Engineering Events
+UID:ca2e90ae-2ca3-4e24-89ce-5b97973109a4@ca2e.org
+URL:https://nso.upenn.edu/event/school-of-engineering-events/?sd=1693195200&ed=1600&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nGet acquainted with your new university!
+DTEND:20230823T150000Z
+LOCATION:Chemistry Building\, 102:  Chemistry Building\, 102 231 S 34th Street Philadelphia\, PA 19104.
+DTSTART:20230823T140000Z
+SUMMARY:MANDATORY: Exchange/IGSP Welcome Session
+UID:fb648bfa-ed1a-4f21-a47a-d23a58188200@fb64.org
+URL:https://nso.upenn.edu/event/exchange-igsp-welcome-session/?sd=1692763200&ed=1100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nSecond-year students are invited to enjoy dessert as they explore the various exhibits at the Pennsylvania Academy of the Fine Arts (PAFA).\n\n\nBus locations below.
+DTEND:20230828T010000Z
+LOCATION:39th and Walnut streets & 39th and Spruce streets
+DTSTART:20230827T230000Z
+SUMMARY:Dessert Reception at PAFA
+UID:fd02cf5e-a735-4968-a1c1-cd97a1996d94@fd02.org
+URL:https://nso.upenn.edu/event/dessert-reception-at-pafa/?sd=1693108800&ed=2100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nThe college student experience is exciting because it is so multifaceted\, ranging from academics and co-curricular engagement to residential life and alumni mentorship. Penn’s ongoing commitment to diversity\, equity\, inclusion\, and belonging is reflected within each of these facets. Our Cultural Resource Centers represent that commitment\, offering a vibrant array of intercultural experiences\, transformative learning opportunities\, and meaningful leadership development\, as students learn about themselves\, their peers\, and the diverse communities in which they exist. Come learn from students and staff about how these spaces enrich students’ lives.
+DTEND:20230823T180000Z
+LOCATION:Irvine Auditorium:  Irvine Auditorium 3401 Spruce Street Philadelphia\, PA 19104.
+DTSTART:20230823T170000Z
+SUMMARY:Introduction To Penn’s Vibrant Cultural Resource Centers
+UID:9c22ccad-8544-4c30-81ab-46922bdee2c2@9c22.org
+URL:https://nso.upenn.edu/event/introduction-to-penns-vibrant-cultural-resource-centers/?sd=1692763200&ed=1400&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nJust arrived on campus? Have all your questions answered here at the international student help table! Our PHINS will address any concerns regarding where to go\, what to do\, and NSO programming.
+DTEND:20230821T150000Z
+LOCATION:Houston Hall\, Reading Room:  Houston Hall\, Reading Room 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230821T130000Z
+SUMMARY:International Student Help Table
+UID:f0407f15-b0ed-4edc-bc40-bfccf35799bf@f040.org
+URL:https://nso.upenn.edu/event/international-student-help-table/?sd=1692590400&ed=1100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nEnjoy a meal and meet other students who are first-generation and/or limited-income\, as well as faculty and staff supporters! Family members are welcome!\n\n\nRain Location: Chinese Rotunda & Egypt Galleries
+DTEND:20230821T233000Z
+LOCATION:Penn Museum\, Warden Garden:  Penn Museum\, Warden Garden 3260 South Street Philadelphia\, PA 19104.
+DTSTART:20230821T213000Z
+SUMMARY:First Generation-to-College (Plus) Welcome BBQ
+UID:e0ecd184-581b-4074-b62a-7db1f6e253f6@e0ec.org
+URL:https://nso.upenn.edu/event/first-generation-to-college-plus-welcome-bbq/?sd=1692590400&ed=1930&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nJoin TSO to learn about affinity organizations on campus and wellness opportunities for transfer students.
+DTEND:20230827T200000Z
+LOCATION:Rodin Rooftop Lounge:  Rodin Rooftop Lounge 3901 Locust Walk Philadelphia\, PA 19104.
+DTSTART:20230827T180000Z
+SUMMARY:Boba & Brochures
+UID:9d00c2fe-a8ff-48b4-905a-3cec230e1c48@9d00.org
+URL:https://nso.upenn.edu/event/boba-brochures/?sd=1693108800&ed=1600&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nShow your Red & Blue pride! Come support the Quakers as they take on the Blue Hens in Women’s Soccer.
+DTEND:20230827T220000Z
+LOCATION:Penn Park:  Penn Park 3000 Walnut St Philadelphia\, PA 19104.
+DTSTART:20230827T220000Z
+SUMMARY:Women’s Soccer: Penn Vs. Delaware
+UID:40534f1a-c37f-44b3-94c0-53e2d8f29b36@4053.org
+URL:https://nso.upenn.edu/event/womens-soccer-penn-vs-delaware/?sd=1693108800&ed&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nFind your inner zen with morning yoga(ish). BYO mat/towel and water!
+DTEND:20230827T150000Z
+LOCATION:High Rise Lawn
+DTSTART:20230827T140000Z
+SUMMARY:Morning Yoga
+UID:8c4b0f8f-f39d-4d0a-9649-635f97cad7ac@8c4b.org
+URL:https://nso.upenn.edu/event/morning-yoga/?sd=1693108800&ed=1100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nThe Welcome to Penn session offers first-years a chance to hear from campus resources who provide support services throughout their undergraduate career. Speakers include represenatives from New Student Orientation & Academic Initiatives\, University Life\, Public Safety\, Campus Health\, PVP\, and more! Students will receive their NSO wristbands upon entry. \n\n\n\n9:30am-11am: Groups 1-60\n\n\n2pm-3:30pm: Groups 61-120
+DTEND:20230824T150000Z
+LOCATION:Irvine Auditorium:  Irvine Auditorium 3401 Spruce Street Philadelphia\, PA 19104.
+DTSTART:20230824T133000Z
+SUMMARY:MANDATORY: Welcome To Penn Groups 1-60
+UID:2344f000-be47-4c40-91cb-abcee0e975ce@2344.org
+URL:https://nso.upenn.edu/event/welcome-to-penn-groups-1-60/?sd=1692849600&ed=1100&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nJust arrived on campus? Have all your questions answered here at the international student help table! Our PHINS will address any concerns regarding where to go\, what to do\, and NSO programming.
+DTEND:20230823T150000Z
+LOCATION:Houston Hall\, Reading Room:  Houston Hall\, Reading Room 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230823T130000Z
+SUMMARY:International Student Help Table
+UID:0bdf072a-c3c2-413f-b2a3-aee69f7a850e@0bdf.org
+URL:https://nso.upenn.edu/event/international-student-help-table/?sd=1692763200&ed=1100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nSpend the evening watching Paul Blart: Mall Cop and chat with friends! Cookies and hot cocoa will be provided. Popcorn\, candy\, and drinks will be provided.
+DTEND:20230822T023000Z
+LOCATION:Meyerson Hall B1:  Meyerson Hall B1 210 South 34th Street Philadelphia\, PA 19104.
+DTSTART:20230822T003000Z
+SUMMARY:Movie Night
+UID:eaf7c066-c57c-487e-a6c4-8fb6644d889d@eaf7.org
+URL:https://nso.upenn.edu/event/movie-night-2/?sd=1692590400&ed=2230&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230826T180000Z
+LOCATION:Various Locations
+DTSTART:20230826T140000Z
+SUMMARY:Brunch
+UID:5dc8f87f-e925-4dcc-a49c-dfcd18255c4e@5dc8.org
+URL:https://nso.upenn.edu/event/brunch-3/?sd=1693022400&ed=1400&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nLearn about pre-major\, pre-professional\, mentorship\, and extracurricular resources.
+DTEND:20230826T193000Z
+LOCATION:Houston Hall\, Bodek Lounge:  Houston Hall\, Bodek Lounge 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230826T180000Z
+SUMMARY:Mentorship & Extracurricular Fair
+UID:0db85d2b-4962-493f-8cd1-398499c58c11@0db8.org
+URL:https://nso.upenn.edu/event/mentorship-extracurricular-fair/?sd=1693022400&ed=1530&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nThe tPHINS will lead a tour of important buildings and landmarks on Penn’s campus.
+DTEND:20230822T210000Z
+LOCATION:Meet at Benjamin Franklin Statue outside of College Hall
+DTSTART:20230822T190000Z
+SUMMARY:tPHIN Guided Tours
+UID:b6b7f2fa-c601-4aea-ab31-09ac6dbdbfb4@b6b7.org
+URL:https://nso.upenn.edu/event/tphin-guided-tours/?sd=1692676800&ed=1700&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel  dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street. \n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 11am-2pm at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230822T203000Z
+LOCATION:Various Locations
+DTSTART:20230822T150000Z
+SUMMARY:Lunch For Students & Families
+UID:6de96689-ab5d-440a-b421-c4c07368d6e5@6de9.org
+URL:https://nso.upenn.edu/event/lunch-for-students-families/?sd=1692676800&ed=1630&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nJoin your classmates for a fun and inspiring evening at one of the world’s greatest art museums. Adventure through collections of Asian\, European\, American\, and Contemporary art. Enjoy festive food (Kosher and Halal options available) while taking in a spectacular view of the Philadelphia skyline and tackling the famous Rocky Steps.\n\n\nThis is the gala event of NSO that everyone talks about! Enjoy music\, dancing\, and free admission to the world-class galleries! Dinner served at the museum.\n\n\nBus Locations: \n\n\n\nBetween 37th and 38th Street on Spruce (Upper Quad Gate)\n\n\nBetween 33th and 34th Street on Walnut (Hill)
 DTEND:20230827T010000Z
 LOCATION:Philadelphia Museum of Art:  Philadelphia Museum of Art 2600 Benjamin Franklin Pkwy Philadelphia\, PA 19130.
 DTSTART:20230826T223000Z
 SUMMARY:An Evening at the Philadelphia Museum of Art
-UID:e52c4ddf-e030-49e7-b10c-16de60a3e869@e52c.org
+UID:dbf524ca-f1c1-4ca1-a532-97012d732269@dbf5.org
 URL:https://nso.upenn.edu/event/an-evening-at-the-philadelphia-museum-of-art/?sd=1693022400&ed=2100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nGet acquainted with Penn’s resources and buildings throughout campus!\n\n\nThere will be two separate tour times. One from 9:30am-10:30am and another one from 10:30am-11:30am.
+DTEND:20230822T153000Z
+LOCATION:Meet at Perry World House:  Meet at Perry World House 3803 Locust Walk Philadelphia\, PA 19104.
+DTSTART:20230822T133000Z
+SUMMARY:Campus Tour
+UID:b0722078-52ae-4986-91ef-75cdf9d5595b@b072.org
+URL:https://nso.upenn.edu/event/campus-tour-2/?sd=1692676800&ed=1130&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLearn more about academic support resources from the Weingarten Learning Resources Center. Discussions include rules regarding plagiarism and cheating at Penn.
+DTEND:20230824T153000Z
+LOCATION:Chemistry Building\, 102:  Chemistry Building\, 102 231 S 34th Street Philadelphia\, PA 19104.
+DTSTART:20230824T144500Z
+SUMMARY:MANDATORY: Resources Overview & Academic Integrity Session
+UID:bc2a3e4d-f652-415d-9f2e-6834ab6c4f23@bc2a.org
+URL:https://nso.upenn.edu/event/resources-overview-academic-integrity-session/?sd=1692849600&ed=1130&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nJust arrived on campus? Have all your questions answered here at the international student help table! Our PHINS will address any concerns regarding where to go\, what to do\, and NSO programming.
+DTEND:20230822T150000Z
+LOCATION:Houston Hall\, Reading Room:  Houston Hall\, Reading Room 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230822T130000Z
+SUMMARY:International Student Help Table
+UID:53a32c99-7041-4fd4-960b-cc233cc228a5@53a3.org
+URL:https://nso.upenn.edu/event/international-student-help-table/?sd=1692676800&ed=1100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nClass Board presents: Root for the Philadelphia Phillies as they take on the Los Angeles Angels. Registration required.
+DTEND:20230829T010000Z
+LOCATION:Citizens Bank Park:  Citizens Bank Park 1 Citizens Bank Way Philadelphia\, PA 19148.
+DTSTART:20230828T220000Z
+SUMMARY:SYO: Phillies Game
+UID:8143b600-2fa9-4ffb-839a-4173ef89fab5@8143.org
+URL:https://nso.upenn.edu/event/syo-phillies-game/?sd=1693195200&ed=2100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nReceive critical information about Penn’s websites\, including Path@Penn. Hear from various offices regarding the resources available to you. Please bring your laptops.
+DTEND:20230825T160000Z
+LOCATION:College Hall 200:  College Hall 200 1 College Hall Philadelphia\, PA 19104.
+DTSTART:20230825T140000Z
+SUMMARY:MANDATORY: Transfer Student Info Session III
+UID:163f91ec-4700-4181-8e45-46ccdcfed950@163f.org
+URL:https://nso.upenn.edu/event/transfer-student-info-session-iii/?sd=1692936000&ed=1200&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nUpper-level transfers will let you know essential information all Penn students should know about Penn and Philly.
+DTEND:20230823T153000Z
+LOCATION:College Hall 200:  College Hall 200 1 College Hall Philadelphia\, PA 19104.
+DTSTART:20230823T140000Z
+SUMMARY:MANDATORY: Transfer Student Info Session II
+UID:6eac328b-d664-4600-b94a-cd0756b64f12@6eac.org
+URL:https://nso.upenn.edu/event/transfer-student-info-session-ii/?sd=1692763200&ed=1130&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nMeet other IGSP and Exchange students. Receive your NSO wristband.
+DTEND:20230823T140000Z
+LOCATION:Chemistry Building\, 102:  Chemistry Building\, 102 231 S 34th Street Philadelphia\, PA 19104.
+DTSTART:20230823T131500Z
+SUMMARY:MANDATORY: Exchange/IGSP Check-In
+UID:b84e6d11-ee8b-415d-8baf-02f64beb5ced@b84e.org
+URL:https://nso.upenn.edu/event/exchange-igsp-check-in/?sd=1692763200&ed=1000&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, Kings Court English House\, and 1920 Commons dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.
+DTEND:20230825T140000Z
+LOCATION:Various Locations
+DTSTART:20230825T113000Z
+SUMMARY:Breakfast
+UID:46140b3f-710a-48f7-a103-692203a6dca7@4614.org
+URL:https://nso.upenn.edu/event/breakfast-5/?sd=1692936000&ed=1000&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nGet instructions on The College’s procedures\, policies\, requirements\, and curricular options.
+DTEND:20230824T160000Z
+LOCATION:College Hall 200:  College Hall 200 1 College Hall Philadelphia\, PA 19104.
+DTSTART:20230824T140000Z
+SUMMARY:MANDATORY: Transfer Advising Session: The College
+UID:95db5e35-6520-4386-b351-b26518314cdd@95db.org
+URL:https://nso.upenn.edu/event/transfer-advising-session-the-college/?sd=1692849600&ed=1200&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nDean's Meeting\n\n\nDean Antonia Villarruel and the Office of Academic Affairs staff welcome the Class of 2027 and provide an overview of the School\, support services\, and student life.Location: Ann L. Roy Auditorium\, Fagin HallTime: 11am-12pm\n\n\nIf I Knew Then What I Know Now...\n\n\nNursing Peer Advisors share helpful tips for being successful during your Penn Nursing experience. After the panel\, there will be time for open Q&A and an opportunity to get to know your Peer Advisor.Location: Ann L. Roy Auditorium\, Fagin HallTime: 12pm-1pm\n\n\nResource Fair and Welcome Lunch\n\n\nGet to know your classmates and the Penn Nursing Peer Advisors during this lunch celebrating the Class of 2027. After lunch\, learn about the many campus resources and the Penn Nursing student organizations.Location: Carol Ware Lobby\, Fagin HallTime: 1pm-2pm\n\n\nWater Ice and Campus Tour with Nursing Peer Advisors\n\n\nEmjoy a water ice and join the Nursing Peer Advisors for a tour of campus. Hear about their campus and Philly favorites.Location: Carol Ware Lobby\, Fagin HallTime: 2pm-3pm
+DTEND:20230828T190000Z
+DTSTART:20230828T150000Z
+SUMMARY:MANDATORY: School of Nursing Events
+UID:13a720d6-04e2-4d7d-a6f2-fff063373a40@13a7.org
+URL:https://nso.upenn.edu/event/school-of-nursing-events/?sd=1693195200&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street. \n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 5pm-7pm at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230824T000000Z
+LOCATION:Various Locations
+DTSTART:20230823T210000Z
+SUMMARY:Dinner For Students & Families
+UID:d2d5a741-13a0-4f18-850c-f6b80beab3d7@d2d5.org
+URL:https://nso.upenn.edu/event/dinner-for-students-families/?sd=1692763200&ed=2000&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nCome together for your official welcome as the Class of 2027! It is the evening before the first day of classes and is a Penn Tradition that dates in its modern form to around 1894. Enjoy a live performance of The Red and Blue\, the University of Pennsylvania School Song.\n\n\nThis formal ceremony inducts the Class of 2027 into the Penn community. Penn ID required for entry into the stadium.\n\n\nRain Location: The Palestra
+DTEND:20230829T001500Z
+LOCATION:Franklin Field:  Franklin Field 235 S 33rd St Philadelphia\, PA 19104.
+DTSTART:20230828T230000Z
+SUMMARY:MANDATORY: Convocation
+UID:cef41ba4-80fa-413c-b3c9-ca22537d53b5@cef4.org
+URL:https://nso.upenn.edu/event/convocation-3/?sd=1693195200&ed=2015&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel  dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street. \n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 11am-2pm at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230823T203000Z
+LOCATION:Various Locations
+DTSTART:20230823T150000Z
+SUMMARY:Lunch For Students & Families
+UID:10d5293b-7132-49a3-a027-2c0d63f6b54e@10d5.org
+URL:https://nso.upenn.edu/event/lunch-for-students-families/?sd=1692763200&ed=1630&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer
+DTEND:20230824T133000Z
+LOCATION:Various Locations
+DTSTART:20230824T110000Z
+SUMMARY:Placement Exams
+UID:5147c5ae-40e1-43e9-8044-79713bc57393@5147.org
+URL:https://nso.upenn.edu/event/placement-exams-4/?sd=1692849600&ed=0930&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230827T180000Z
+LOCATION:Various Locations
+DTSTART:20230827T140000Z
+SUMMARY:Brunch
+UID:b00ea388-8c69-4b15-9fb6-4300288c53dc@b00e.org
+URL:https://nso.upenn.edu/event/brunch-3/?sd=1693108800&ed=1400&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nEngage with Penn faculty\, staff\, and students in these one-time educational sessions. Preceptorials showcase the cultural\, social\, and academic richness of our shared community as well as highlight topics on civic engagement\, wellness\, and the arts in Philadelphia.\n\n\nVisit the Preceptorials page for a complete list of offerings and registration information.
+DTEND:20230826T180000Z
+LOCATION:Various Locations
+DTSTART:20230826T150000Z
+SUMMARY:Preceptorials
+UID:c7e89216-3f5a-4972-9fb9-9fa443a7d0c2@c7e8.org
+URL:https://nso.upenn.edu/event/preceptorials/?sd=1693022400&ed=1400&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nMeet Your Cohort!\n\n\nStudents will meet with their Cohort Leaders and fellow cohort members.Location: Various locations as specified belowTime: 9:30am-10:15am\n\n\n\nDinarAcademic Research Building (ARB) Room 140DollarARB Room 240EuroSteinberg Hall-Dietrich Hall (SDHD) Room 109PesoSHDH Room 213RandJon M. Huntsman Hall (JMHH) Room 240RupeeJMHH Room 245ShekelJMHH Room 250YenJMHH Room F80YuanJMHH Room G55\n\n\nWharton Tour\n\n\nStudent leaders will guide new students through Wharton buildings to help them become familiar with class spaces\, common study spots\, social event locations\, and resource offices.Location: Various locationsTime: 10:15am-11:15am\n\n\nWharton Welcome\n\n\nVice Dean Diana Robertson and student leaders will formally welcome the Class of 2027 and transfer students.Location: Zellerbach Theatre\, Annenberg CenterTime: 11:15am-11:45am\n\n\nCohort Lunch\n\n\nHave lunch and learn about the cohort program and ways to get involved.Location: Same as "Meet Your Cohort" classroomsTime: 11:45am-12:30pm\n\n\nWharton "Circles" Community Dialogue\n\n\nJoin student leaders for this interactive program about academic and co-curricular life at Wharton.Location: Same as "Meet Your Cohort" classroomsTime: 12:30pm-1:45pm\n\n\nWharton First-Year Festival\n\n\nEnjoy interactive games\, great food\, and giveaways\, and make connections with your classmates\, student leaders\, and staff!Location: Tannenbaum Quad and Hoover LoungeTime: 1:45pm-3pm
+DTEND:20230828T190000Z
+DTSTART:20230828T133000Z
+SUMMARY:MANDATORY: Wharton School Events
+UID:d76d572a-df62-4c3f-9d8b-9f8e670fea97@d76d.org
+URL:https://nso.upenn.edu/event/wharton-school-events/?sd=1693195200&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nGet to know your fellow exchange and IGSP students during this new student social time.
+DTEND:20230823T210000Z
+LOCATION:Bok Garden (Behind Fisher-Bennett Hall):  Bok Garden (Behind Fisher-Bennett Hall) 3340 Walnut Street Philadelphia\, PA 19104.
+DTSTART:20230823T193000Z
+SUMMARY:Exchange/IGSP New Student Social
+UID:3db3f584-3c97-43fa-848b-8dcb2517e618@3db3.org
+URL:https://nso.upenn.edu/event/exchange-igsp-new-student-social/?sd=1692763200&ed=1700&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nCome to your “one-stop shop” for essential resources and services for all Penn students.
+DTEND:20230822T190000Z
+LOCATION:Houston Hall:  Houston Hall 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230822T140000Z
+SUMMARY:New Student Resources Fair & Campus Express Center
+UID:b94e6133-c1e8-4543-a35f-d4e89fb27332@b94e.org
+URL:https://nso.upenn.edu/event/new-student-resources-fair-campus-express-center/?sd=1692676800&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nLearn about Wharton resources. Hear about the experiences of upper-level transfer students and ask questions.
+DTEND:20230828T151500Z
+LOCATION:Huntsman Hall\, G95:  Huntsman Hall\, G95 3730 Walnut St Philadelphia \, PA 19104.
+DTSTART:20230828T140000Z
+SUMMARY:MANDATORY: Wharton Transfer Experience Overview and Upper-Level Student Panel
+UID:80bee34a-e481-4939-9aac-a1d010d77cbd@80be.org
+URL:https://nso.upenn.edu/event/wharton-transfer-experience-overview-and-upper-level-student-panel/?sd=1693195200&ed=1115&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nJoin transfers for a tour throughout West Philly. We will all go as one big group (tPHINS and new transfers together) and take the SEPTA to center city\, visiting Reading Terminal and other notable places along the way.
+DTEND:20230824T200000Z
+LOCATION:Meet in front of Rodin:  Meet in front of Rodin 3901 Locust Walk Philadelphia \, PA 19104.
+DTSTART:20230824T173000Z
+SUMMARY:Philly Walking Tours
+UID:f6fcce98-f312-4caf-8abe-e8d76abe98b1@f6fc.org
+URL:https://nso.upenn.edu/event/philly-walking-tours/?sd=1692849600&ed=1600&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nCome to your “one-stop shop” for essential resources and services for all Penn students.
+DTEND:20230823T190000Z
+LOCATION:Houston Hall:  Houston Hall 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230823T140000Z
+SUMMARY:New Student Resources Fair & Campus Express Center
+UID:b2c63446-2601-42fc-866b-6bda2d31f9d8@b2c6.org
+URL:https://nso.upenn.edu/event/new-student-resources-fair-campus-express-center/?sd=1692763200&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nJoin TSO and the Class Boards for a night filled with waffles\, ice cream\, and a selection of tasty toppings... a TSO tradition!\n\n\nRain Location: Starbucks Dining Room
+DTEND:20230826T020000Z
+LOCATION:1920 Commons Pergola (Stommons):  1920 Commons Pergola (Stommons) 3800 Locust Walk Philadelphia \, PA 19104.
+DTSTART:20230826T000000Z
+SUMMARY:Waffles & Ice Cream Night
+UID:9485df98-d272-46d4-818b-753e6d2d033e@9485.org
+URL:https://nso.upenn.edu/event/waffles-ice-cream-night/?sd=1692936000&ed=2200&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nMeet with advisors from your admitting school and learn about advising support and policy at Penn.
+DTEND:20230824T190000Z
+LOCATION:Skirkanich Hall\, Greenberg Lounge:  Skirkanich Hall\, Greenberg Lounge 210 S 33rd Street Philadelphia\, PA.
+DTSTART:20230824T180000Z
+SUMMARY:MANDATORY: SEAS Advising Session
+UID:e004e18f-4391-4e49-8fc2-ba0f99ee9c33@e004.org
+URL:https://nso.upenn.edu/event/seas-advising-session/?sd=1692849600&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nChat with friends and meet new transfer students while trying Penn dining cafes.
+DTEND:20230825T040000Z
+LOCATION:Meet in front of Rodin:  Meet in front of Rodin 3901 Locust Walk Philadelphia \, PA 19104.
+DTSTART:20230824T153000Z
+SUMMARY:tPHIN-Led Lunch
+UID:45ed7025-1688-4330-8078-601f00176f58@45ed.org
+URL:https://nso.upenn.edu/event/tphin-led-lunch-2/?sd=1692849600&ed=13&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nWhile new students engage with their fellow Quakers\, parents and families are invited to explore newly installed art exhibitions and enjoy a dessert reception while mingling with Penn staff and PHINS orientation leaders at one the world’s preeminent venues for contemporary art and culture. Registration required.
+DTEND:20230822T000000Z
+LOCATION:Institute for Contemporary Art (ICA):  Institute for Contemporary Art (ICA) 118 S 36th St Philadelphia\, PA 19104.
+DTSTART:20230821T223000Z
+SUMMARY:Penn Parents & Families Dessert Reception
+UID:a7c1734c-f3f5-42ab-81d8-8b350febc9fc@a7c1.org
+URL:https://nso.upenn.edu/event/penn-parents-families-dessert-reception/?sd=1692590400&ed=2000&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nGet acquainted with Penn’s resources and buildings throughout campus!
+DTEND:20230824T203000Z
+LOCATION:Meet at Perry World House:  Meet at Perry World House 3803 Locust Walk Philadelphia\, PA 19104.
+DTSTART:20230824T193000Z
+SUMMARY:Campus Tour
+UID:67a51a9a-8a57-47cb-96f3-00a53b1d44da@67a5.org
+URL:https://nso.upenn.edu/event/campus-tour-3/?sd=1692849600&ed=1630&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLearn about services\, resources\, and policies.
+DTEND:20230823T150000Z
+LOCATION:Houston Hall\, Golkin Room:  Houston Hall\, Golkin Room 3417 Spruce St\, Golkin Room Philadelphia\, PA 19104.
+DTSTART:20230823T140000Z
+SUMMARY:Resources For Students With Disabilities
+UID:b58d297f-0f64-458f-9694-a479a8096f2d@b58d.org
+URL:https://nso.upenn.edu/event/resources-for-students-with-disabilities-2/?sd=1692763200&ed=1100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nAn overview of the upcoming transfer orientation schedule. Receive your NSO Wristband.
+DTEND:20230822T183000Z
+LOCATION:College Hall 200:  College Hall 200 1 College Hall Philadelphia\, PA 19104.
+DTSTART:20230822T173000Z
+SUMMARY:MANDATORY: Transfer Student Info Session I
+UID:c5d8939e-62f7-4f93-9846-f7435bed1cf1@c5d8.org
+URL:https://nso.upenn.edu/event/transfer-student-info-session-i/?sd=1692676800&ed=1430&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nCheck your Undergraduate School Specific schedule and contact your Peer Advisor\, Cohort Leader\, and/or OPA! for details!
+DTEND:20230828T180000Z
+LOCATION:Various Locations
+DTSTART:20230828T150000Z
+SUMMARY:Lunch With Undergraduate Schools
+UID:36100341-7693-4958-bdd6-e8b948690574@3610.org
+URL:https://nso.upenn.edu/event/lunch-with-undergraduate-schools/?sd=1693195200&ed=1400&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nJoin your fellow classmates for free guided tours to discover more about your new home. Meet at College Green to leave for your tour!\n\n\nVisit PennTracks page for details.
+DTEND:20230826T210000Z
+LOCATION:Various Locations
+DTSTART:20230826T180000Z
+SUMMARY:Penntracks Walking Tours: Center City
+UID:5d95ba1a-c4ab-4659-b060-a0761eeabe69@5d95.org
+URL:https://nso.upenn.edu/event/penntracks-walking-tours-center-city/?sd=1693022400&ed=1700&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nPHINS Orientation Group Activities give first-years an opportunity to meet their orientation leader and engage with classmates. Small groups explore the energetic campus landscape while getting acquainted with Penn’s resource centers\, dining cafes\, and academic buildings. See mymandatoryevents.com for your PHINS Orientation Group information and your personalized schedule of mandatory NSO events including dates\, times\, and locations. \n\n\n\n9:30am-11am: Groups 61-120\n\n\n2pm-3:30pm: Groups 1-60 \n\n\n\nLocation: Meet outside your College House. Look for your PHINS Orientation Leader holding their group sign.
+DTEND:20230825T030000Z
+LOCATION:Various Locations
+DTSTART:20230824T133000Z
+SUMMARY:MANDATORY: PHINS Orientation Group Activities 61-120
+UID:41ff3db0-e377-4025-aecd-006b8c565420@41ff.org
+URL:https://nso.upenn.edu/event/phins-orientation-group-activities-61-120/?sd=1692849600&ed=2300&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nPCTA allows first-years to participate in a large town hall style meeting to explore the importance of the arts at Penn and in Philadelphia\, and the many ways our students and alumni have incorporated them into their education and beyond. \n\n\n9:30am-11am: Groups 1-60 \n\n\n2pm-3:30pm: Groups 61-120
+DTEND:20230825T150000Z
+LOCATION:Irvine Auditorium:  Irvine Auditorium 3401 Spruce Street Philadelphia\, PA 19104.
+DTSTART:20230825T133000Z
+SUMMARY:MANDATORY: Penn Celebrates The Arts Groups 1-60
+UID:e373c2cd-c699-48d3-972a-add8b527d8f7@e373.org
+URL:https://nso.upenn.edu/event/penn-celebrates-the-arts-groups-1-60/?sd=1692936000&ed=1100&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nBring your poetry\, your guitar\, or your award- winning essay and share your talents with your classmates. This open mic night features performances by the Class of 2027. Anyone can sign up to perform\, or just come to hang out\, listen\, and check out the Writers House!
+DTEND:20230827T030000Z
+LOCATION:Kelly Writers House:  Kelly Writers House 3805 Locust Walk Philadelphia \, PA 19104.
+DTSTART:20230827T010000Z
+SUMMARY:NSO Speakeasy
+UID:ade5216b-af18-4370-8081-c51927f0e16b@ade5.org
+URL:https://nso.upenn.edu/event/nso-speakeasy-2/?sd=1693022400&ed=2300&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nEnjoy music\, food\, and games with your fellow classmates\, the Intercultural Greek Council\, and Makuu at the Late Night Yard Show!
+DTEND:20230827T013000Z
+LOCATION:College Green:  College Green Benjamin Franklin Statue\, University of Pennsylvania Philadelphia\, PA 19104.
+DTSTART:20230827T013000Z
+SUMMARY:Intercultural Greek Council Presents: Late Night Yard Show
+UID:d9b6f3fb-7667-407c-8051-613caa8c1c6e@d9b6.org
+URL:https://nso.upenn.edu/event/intercultural-greek-council-presents-late-night-yard-show/?sd=1693022400&ed&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nGet better acquainted with the campus by going on this scavenger hunt! The winning team is rewarded with great prizes!\n\n\nRain Location: Meyerson B1
+DTEND:20230823T160000Z
+LOCATION:College Green:  College Green Benjamin Franklin Statue\, University of Pennsylvania Philadelphia\, PA 19104.
+DTSTART:20230823T140000Z
+SUMMARY:Scavenger Hunt
+UID:7d255611-2363-4fb1-b44b-c4d6fb43bfc9@7d25.org
+URL:https://nso.upenn.edu/event/scavenger-hunt/?sd=1692763200&ed=1200&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nStaff available to answer all of your questions.
+DTEND:20230821T190000Z
+LOCATION:34th & Walnut\, 37th & Locust\, College Green
+DTSTART:20230821T140000Z
+SUMMARY:NSO Hospitality Booths
+UID:21358559-6863-436e-a9fb-85c7237c4245@2135.org
+URL:https://nso.upenn.edu/event/nso-hospitality-booths/?sd=1692590400&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nHear about how to stay safe on campus and in Philadelphia.
+DTEND:20230823T160000Z
+LOCATION:Chemistry Building\, 102:  Chemistry Building\, 102 231 S 34th Street Philadelphia\, PA 19104.
+DTSTART:20230823T150000Z
+SUMMARY:MANDATORY: Penn Violence Prevention & Public Safety Session
+UID:577e8e9e-1c89-436a-b245-baefa62b1b1f@577e.org
+URL:https://nso.upenn.edu/event/penn-violence-prevention-public-safety-session/?sd=1692763200&ed=1200&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nChat with friends and meet new transfer students while trying Penn dining cafes.
+DTEND:20230824T040000Z
+LOCATION:Meet in front of Rodin:  Meet in front of Rodin 3901 Locust Walk Philadelphia \, PA 19104.
+DTSTART:20230823T153000Z
+SUMMARY:tPHIN-Led Lunch
+UID:b27a544b-7a8f-4991-b621-6d40e3201c54@b27a.org
+URL:https://nso.upenn.edu/event/tphin-led-lunch/?sd=1692763200&ed=13&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nMeet the Penn Parents Outreach & Development team and pickup Penn giveaways.
+DTEND:20230823T190000Z
+LOCATION:Houston Hall\, Hall of Flags:  Houston Hall\, Hall of Flags 3417 Spruce St #307 Philadelphia\, PA 19104.
+DTSTART:20230823T140000Z
+SUMMARY:Penn Parents & Families Info Station 
+UID:495c2296-cd26-4b8e-8eca-2e1b5ad969cd@495c.org
+URL:https://nso.upenn.edu/event/penn-parents-info-station/?sd=1692763200&ed=1500&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230822
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nThese interactive workshops will provide you with helpful tips on how to thrive at Penn in areas such as academics\, social and cultural integration\, health and well-being\, and more.
+DTEND:20230821T203000Z
+LOCATION:Perry World House:  Perry World House 3803 Locust Walk Philadelphia\, PA 19104.
+DTSTART:20230821T170000Z
+SUMMARY:Adapt to Penn Today (APT) Workshops
+UID:5ece09fe-2e06-4011-a9b7-58f942b4c6ab@5ece.org
+URL:https://nso.upenn.edu/event/adapt-to-penn-today-apt-workshops/?sd=1692590400&ed=1630&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nJoin the PHINS to learn more about fun\, no-to-low-cost places to visit for fun in Philly. SEPTA (bus\, subway passes) will be provided. Visit places like Magic Gardens\, Old City\, Bartram’s Garden\, Chinatown\, and more!
+DTEND:20230823T200000Z
+LOCATION:Shleifer Family Penn First Plus Center\, College Hall G01
+DTSTART:20230823T180000Z
+SUMMARY:Philly Fun Tours
+UID:13a7ba1e-3ac2-413e-9829-42c768491d37@13a7.org
+URL:https://nso.upenn.edu/event/philly-fun-tours-2/?sd=1692763200&ed=1600&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nCollect a Penn Resource Passport\, and get it stamped. Once you’ve collected enough points\, return to the Shleifer Family P1P Center and collect an ice cold popsicle or ice cream sandwich as your reward.
+DTEND:20230822T200000Z
+LOCATION:Shleifer Family Penn First Plus Center\, College Hall G01
+DTSTART:20230822T180000Z
+SUMMARY:Hybrid Scavenger Hunt
+UID:23dbb17c-392e-49e6-8370-358c6160e024@23db.org
+URL:https://nso.upenn.edu/event/hybrid-scavenger-hunt-2/?sd=1692676800&ed=1600&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, Kings Court English House\, and 1920 Commons dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.
+DTEND:20230828T140000Z
+LOCATION:Various Locations
+DTSTART:20230828T113000Z
+SUMMARY:Breakfast
+UID:df3e817b-b235-4551-a089-f91fe4f223a5@df3e.org
+URL:https://nso.upenn.edu/event/breakfast-6/?sd=1693195200&ed=1000&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230823
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street. \n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 5pm-7pm at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230823T000000Z
+LOCATION:Various Locations
+DTSTART:20230822T210000Z
+SUMMARY:Dinner For Students & Families
+UID:cad6bd0b-e91a-482d-aa4d-d57177ea6cd3@cad6.org
+URL:https://nso.upenn.edu/event/dinner-for-students-families/?sd=1692676800&ed=2000&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230828
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, 1920 Commons\, Lauder\, Kings Court English House & Falk Hillel dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.\n\n\nKosher meals are available from 5pm-7pm at Falk at Penn Hillel located at 215 S 39th Street.
+DTEND:20230826T000000Z
+LOCATION:Various Locations
+DTSTART:20230825T210000Z
+SUMMARY:Dinner
+UID:bb3625bb-e913-4ff7-a682-6f8d09ed29b4@bb36.org
+URL:https://nso.upenn.edu/event/dinner-6/?sd=1692936000&ed=2000&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nJoin the team from Penn First Plus and leaders of our FGLI student organizations to formally welcome you to campus\, talk about how to get involved\, and share some early advice before New Student Orientation begins.
+DTEND:20230823T003000Z
+LOCATION:Irvine Auditorium:  Irvine Auditorium 3401 Spruce Street Philadelphia\, PA 19104.
+DTSTART:20230822T233000Z
+SUMMARY:MANDATORY: Introduction to the Penn First Plus Community
+UID:b10d23a0-6a0a-4fd1-b08b-a8a2d963058c@b10d.org
+URL:https://nso.upenn.edu/event/introduction-to-the-penn-first-plus-community/?sd=1692676800&ed=2030&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nEngage in a workshop to think critically and prepare for your time abroad.
+DTEND:20230824T144500Z
+LOCATION:Chemistry Building\, 102:  Chemistry Building\, 102 231 S 34th Street Philadelphia\, PA 19104.
+DTSTART:20230824T140000Z
+SUMMARY:MANDATORY: ISSS Acculturation Workshop
+UID:30160a58-7ede-42bf-b1e9-e131e8a22321@3016.org
+URL:https://nso.upenn.edu/event/isss-acculturation-workshop/?sd=1692849600&ed=1045&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nLocations: Hill\, Kings Court English House\, and 1920 Commons dining cafes.\n\n\n\nHill House is located at 3333 Walnut Street.\n\n\n1920 Commons is located at 3800 Locust Walk.\n\n\nHalal meals are available at Lauder\, Kings Court English House located at 3465 Sansom Street.
+DTEND:20230823T140000Z
+LOCATION:Various Locations
+DTSTART:20230823T113000Z
+SUMMARY:Breakfast For Students Only
+UID:5ffab76d-5b7f-48d8-a095-a1c95b9f5bf6@5ffa.org
+URL:https://nso.upenn.edu/event/breakfast-for-students-only/?sd=1692763200&ed=1000&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nSign up on Canvas!
+DTEND:20230824T193000Z
+LOCATION:Fisher-Bennett Hall:  Fisher-Bennett Hall 3340 Walnut Street Philadelphia\, PA 19104.
+DTSTART:20230824T183000Z
+SUMMARY:IGSP Advising Sessions
+UID:c5a649e6-9b45-44a9-81e3-804b40a141fc@c5a6.org
+URL:https://nso.upenn.edu/event/igsp-advising-sessions/?sd=1692849600&ed=1530&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nMeet the Penn First Plus team\, pick up orientation materials\, and head over to Houston Hall to get introduced to the resources available at the New Student Resources Fair and Campus Express Center.
+DTEND:20230821T210000Z
+LOCATION:Shleifer Family Penn First Plus Center\, College Hall G01
+DTSTART:20230821T130000Z
+SUMMARY:First Generation and/or Limited Income Student Welcome Center
+UID:3a6a7d37-957d-4e68-a0e6-338d64277295@3a6a.org
+URL:https://nso.upenn.edu/event/first-generation-and-or-limited-income-student-welcome-center/?sd=1692590400&ed=1700&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer
+DTEND:20230824T220000Z
+LOCATION:Various Locations
+DTSTART:20230824T200000Z
+SUMMARY:Placement Exams
+UID:354dd5a3-3fc1-45bd-b9b6-844b815f8bd0@354d.org
+URL:https://nso.upenn.edu/event/placement-exams-5/?sd=1692849600&ed=1800&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230827
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nEngage with Penn faculty\, staff\, and students in these one-time educational sessions. Preceptorials showcase the cultural\, social\, and academic richness of our shared community as well as highlight topics on civic engagement\, wellness\, and the arts in Philadelphia.\n\n\nVisit the Preceptorials page for a complete list of offerings and registration information.
+DTEND:20230827T180000Z
+LOCATION:Various Locations
+DTSTART:20230827T150000Z
+SUMMARY:Preceptorials
+UID:607c2e2c-bf48-4529-bb95-1223537b2e09@607c.org
+URL:https://nso.upenn.edu/event/preceptorials/?sd=1693108800&ed=1400&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nOne of the best parts of Penn is the amazingly supportive faculty and staff who help you succeed on your journey! Join them for this interactive session on making the most of your college experience.
+DTEND:20230823T160000Z
+LOCATION:Irvine Auditorium:  Irvine Auditorium 3401 Spruce Street Philadelphia\, PA 19104.
+DTSTART:20230823T140000Z
+SUMMARY:MANDATORY: Navigating the First-Generation and/or Limited Income Experience at Penn
+UID:5a36956b-099e-4f6b-843a-82ef9dfc5019@5a36.org
+URL:https://nso.upenn.edu/event/navigating-the-first-generation-and-or-limited-income-experience-at-penn/?sd=1692763200&ed=1200&ad
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20230825
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer
+DTEND:20230825T220000Z
+LOCATION:Various Locations
+DTSTART:20230825T200000Z
+SUMMARY:Placement Exams
+UID:51f08dc2-bd92-4f28-996b-687d5b58a92c@51f0.org
+URL:https://nso.upenn.edu/event/placement-exams-5/?sd=1692936000&ed=1800&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nHear international students talk about things they wish they knew before starting their first year at Penn and engage in an informal chat with student panelists! Afterwards\, PHINS escort students to the bus pick-up location for the IKEA shopping trip.
+DTEND:20230822T183000Z
+LOCATION:Meyerson Hall B3:  Meyerson Hall B3 210 South 34th Street Philadelphia\, PA 19104.
+DTSTART:20230822T170000Z
+SUMMARY:Life @ Penn & Chat with Current Students
+UID:4a9b9722-5dd3-4fc6-9e4b-b699caab6023@4a9b.org
+URL:https://nso.upenn.edu/event/life-penn-chat-with-current-students/?sd=1692676800&ed=1430&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Second-Year Exchange/IGSP Transfer First-Year\n\nJoin TSO to socialize with transfers throughout Penn. Soft pretzels\, cookies\, brownies & more will be served.\n\n\nRain Location: Rodin Rooftop Lounge
+DTEND:20230827T220000Z
+LOCATION:Gutmann College House Lawn
+DTSTART:20230827T200000Z
+SUMMARY:New & Old Transfer Student Mixer
+UID:73baab06-63ee-4f6a-b582-f1903daab68d@73ba.org
+URL:https://nso.upenn.edu/event/new-old-transfer-student-mixer/?sd=1693108800&ed=1800&ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intended audience: International FGLI Exchange/IGSP First-Year Transfer\n\nJoin Penn Global\, ISSS\, Penn Abroad\, and the international Class of 2027 for an outdoor picnic! Free dinner will be provided\, and there will be games and other outdoor activities to enjoy. Registration required.
+DTEND:20230822T003000Z
+LOCATION:Shoemaker Green:  Shoemaker Green Smith Walk Philadelphia\, PA 19104.
+DTSTART:20230821T213000Z
+SUMMARY:International Student & Exchange/IGSP Welcome Picnic
+UID:1b189902-c05a-43c1-b2b4-7c09612710d8@1b18.org
+URL:https://nso.upenn.edu/event/international-student-exchange-igsp-welcome-picnic/?sd=1692590400&ed=2030&ad
 END:VEVENT
 METHOD:REQUEST
 END:VCALENDAR
