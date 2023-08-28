@@ -25,3 +25,12 @@ jobs:
           key: venv-${{ hashFiles('poetry.lock') }}
       - name: Install the project dependencies
         run: poetry install --no-root
+      - name: Export Calendars
+        run: |
+          poetry run python3 ./scraper.py
+      - name: Create Release
+        uses: softprops/action-gh-release@v0.1.15
+        with: 
+          files: 
+            output_calendars/*
+            
