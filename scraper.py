@@ -17,6 +17,7 @@
 # IG we're using selenium now
 import functools
 import itertools
+import zoneinfo
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta
@@ -24,7 +25,6 @@ from enum import StrEnum
 from typing import Any, Generator, TypeAlias, TypeVar
 from urllib.parse import unquote
 
-import zoneinfo
 from bs4 import BeautifulSoup as BS
 from ics import Calendar, Event  # type: ignore
 from selenium import webdriver

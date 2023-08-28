@@ -21,6 +21,7 @@ ipykernel = "^6.25.1"
 black = "^23.7.0"
 pre-commit = "^3.3.3"
 jupytext = "^1.15.1"
+ruff = "^0.0.286"
 
 [build-system]
 requires = ["poetry-core"]
@@ -28,3 +29,19 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.jupytext]
 formats = "ipynb,py:percent"
+
+[tool.black]
+line-length = 119
+
+[tool.ruff]
+select = ["E", "F", "I", "PL", "W291"]
+show-fixes = true
+line-length = 119
+fixable = ['ALL']
+target-version = "py311"
+
+[tool.ruff.isort]
+combine-as-imports = true
+
+[tool.ruff.pydocstyle]
+convention = "pep257"
