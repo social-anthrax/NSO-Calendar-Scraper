@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Artemis Livingstone <ar.d.livingstone@gmail.com>"]
 readme = "README.md"
-packages = [{include = "nso_calendar_scraper"}]
+packages = [{ include = "nso_calendar_scraper" }]
 
 [tool.poetry.dependencies]
 python = "^3.11"
@@ -25,3 +25,6 @@ jupytext = "^1.15.1"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.jupytext]
+formats = "ipynb,py:percent"
