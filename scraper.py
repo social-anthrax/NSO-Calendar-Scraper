@@ -15,23 +15,22 @@
 
 # %%
 # IG we're using selenium now
+import functools
+import itertools
+from concurrent.futures import ThreadPoolExecutor
+from dataclasses import dataclass
+from datetime import date, datetime, timedelta
+from enum import StrEnum
+from typing import Any, Generator, TypeAlias, TypeVar
+from urllib.parse import unquote
+
+import zoneinfo
+from bs4 import BeautifulSoup as BS
+from ics import Calendar, Event  # type: ignore
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
-from selenium.common.exceptions import NoSuchElementException
-
-from bs4 import BeautifulSoup as BS
-from urllib.parse import unquote
-from concurrent.futures import ThreadPoolExecutor
-from ics import Calendar, Event
-import functools
-from typing import TypeAlias, Any
-from enum import StrEnum
-from dataclasses import dataclass
-import zoneinfo
-from datetime import datetime, timedelta
-import itertools
-
 
 # Set to none to use default ThreadPoolExecutor quantity
 MAX_WORKERS = 20
@@ -87,21 +86,20 @@ for event_anchor in browser.find_elements(By.XPATH, "//a [@rel='bookmark']"):
         Audience.ANY
     }
     event_links.append((event_anchor.get_attribute("href"), event_type))  # type: ignore
-    # "//ul [@class='event-badges']"
-event_links
+event_links  # type: ignore
 
 
 # %%
 # Define all parsers
-def _parse_date(str_date: str):
+def _parse_date(str_date: str) -> date:
     """Extracts date from NSO calendar website.
     Assumes that format follows "
 
     Args:
-        str_date (str): _description_
+        str_date (str): Date string extracted from the NSO calendar
 
     Returns:
-        _type_: _description_
+        date: date of event
     """
     parsed = str_date.splitlines()[1]
     dt_date = datetime.strptime(parsed, "%A, %B %d, %Y").date()
@@ -149,7 +147,8 @@ def fix_time(cal_content: list[str], dt_start: datetime, dt_end: datetime):
         _type_: _description_
     """
     iterator = enumerate(cal_content)
-    # This solution is a bit janky, but the NSO calendar is always formatter to have start before end,
+    # This solution is a bit janky, but the NSO calendar is always formatter to have
+    # start before end,
     # this technically isn't a guarantee by the RFC but it works for now
     start_index, _ = next(x for x in iterator if x[1].startswith("DTSTART:"))
     end_index, _ = next(x for x in iterator if x[1].startswith("DTEND:"))
@@ -161,8 +160,9 @@ def fix_time(cal_content: list[str], dt_start: datetime, dt_end: datetime):
 
 
 def inject_tz_info(cal_content: list[str]) -> list[str]:
-    """Currently unused. fixes up existing time zones using TZID in the DTSTART and DTEND.
-    Assumes calendar times are already set to `TZ`, which isn't the case with the NSO cal
+    """Unused. fixes up existing time zones using TZID in the DTSTART and DTEND.
+    Assumes calendar times are already set to `TZ`, which isn't the case with the NSO
+    cal
 
     Args:
         cal_content (list[str]): ICS file as a string split into lines
@@ -187,15 +187,15 @@ def inject_tz_info(cal_content: list[str]) -> list[str]:
 
 # %%
 # Define helper functions
-from typing import Generator, TypeVar
 
 
-T = TypeVar('T')
+T = TypeVar("T")
+
+
 def batch(iterable: list[T], size: int) -> Generator[T, None, None]:
     it = iter(iterable)
     while item := list(itertools.islice(it, size)):
-        yield item # type: ignore
-
+        yield item  # type: ignore
 
 
 # %%
@@ -249,14 +249,14 @@ def get_raw_event(browser: webdriver.Firefox, record: EventRecord) -> RawEvent:
         text_time = browser.find_element(
             By.XPATH, "//*[@id='single-events-top']/div[1]/p[2]"
         ).text.strip()
-    except:
+    except Exception:
         text_time = None
 
     try:
         text_date = browser.find_element(
             By.XPATH, '//*[@id="single-events-top"]/div[1]/p[1]'
         ).text
-    except:
+    except Exception:  # If there's any error then fail to parse
         text_date = None
 
     raw_event = RawEvent(
@@ -277,20 +277,22 @@ def process_event(record: RawEvent) -> Entry | None:
     cal_content = record.cal_str.splitlines()
     cal_content.insert(1, "PRODID:NSO_CAL")
 
-    # Cause whoever at NSO wrote this can't write ical's for shit and the end date is sometimes the epoch time.
+    # Cause whoever at NSO wrote this can't write ical's for shit and the end date is
+    # sometimes the epoch time.
     try:
         # We don't need to inject tz info as it's already set to UTC
         event = Calendar("\n".join(cal_content)).events.pop()
-    except (
-        ValueError
-    ):  # Error occured during parsing the Calendar, as the event most likely has a start date after the end date.
+    except ValueError:
+        # Error occured during parsing the Calendar, as the event most likely has a
+        # start date after the end date.
         # Fall back to parsing the raw content.
         if record.text_date is None or record.text_time is None:
             print(f"Entry with url {record.link} has malformed date information")
             return
 
         print(
-            f"Entry with url {record.link} has malformed date information, attempting to parse data"
+            f"Entry with url {record.link} has malformed date information, "
+            "attempting to parse data"
         )
         start_dt, end_dt = parse_datetime(record.text_date, record.text_time)
         cal_content = fix_time(cal_content, start_dt, end_dt)
@@ -329,7 +331,8 @@ def process_event(record: RawEvent) -> Entry | None:
 
 
 def collect_raw_entries() -> list[RawEvent]:
-    """Collects the raw entries for processing later. Allows for processing to occur in a different cell.
+    """Collects the raw entries for processing later. Allows for processing to occur in
+    a different cell.
 
     Returns:
         list[RawEvent|None]: List of raw events.
@@ -344,7 +347,7 @@ def collect_raw_entries() -> list[RawEvent]:
 
 # %%
 # DEBUG
-# call = get_raw_event(("https://nso.upenn.edu/event/wellness-at-penn-session/?sd=1692763200&ed=1430&ad", {Audience.ANY}))
+# call = get_raw_event(("https://nso.upenn.edu/event/wellness-at-penn-session/?sd=1692763200&ed=1430&ad", {Audience.ANY}))  # noqa: E501
 # print(process_event(call)[0].serialize())
 
 # %% is_executing=true
@@ -362,9 +365,10 @@ def __reduction_function(cal: Calendar, event: tuple[Event, Any]):
 
 
 def reduce_cal(cal_list: list[Entry]) -> Calendar:
-    # This order matters for some reason, normally could have Calendar() as the initial parameter in the fold.
+    # This order matters for some reason, normally could have Calendar() as the initial
+    # parameter in the fold.
     calendar = Calendar()
-    calendar.method = "REQUEST" # type: ignore
+    calendar.method = "REQUEST"  # type: ignore
     calendar = functools.reduce(__reduction_function, iter(cal_list), calendar)
     return calendar
 
@@ -392,7 +396,8 @@ with open("./output_calendars/transfer_events.ics", "w") as file:
     file.writelines(transfer_calendar.serialize_iter())
 
 # %% is_executing=true magic_args="false" language="script"
-# # Scratch space to figure out how the hell they broke the date time for some events so badly
+# # Scratch space to figure out how the hell they broke the date time for some events
+# so badly
 #
 # import datetime
 # iterator = enumerate(cal_content.splitlines())
