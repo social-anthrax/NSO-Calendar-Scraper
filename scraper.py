@@ -321,9 +321,8 @@ def process_event(record: RawEvent) -> Entry | None:
     raw_description = event.description
     event.description = f"Intended audience: {' '.join(record.audience)}"
     if raw_description is not None:
-        parsed_description = BS(
-            raw_description, "html.parser"
-        ).text.strip()  # For some reason we get unformatted html in the text. Thanks NSO
+        # For some reason we get unformatted html in the text. Thanks NSO
+        parsed_description = BS(raw_description, "html.parser").text.strip()
         event.description += f"\n\n{parsed_description}"
 
     event.url = record.link
