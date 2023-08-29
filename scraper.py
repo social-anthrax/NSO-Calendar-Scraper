@@ -22,7 +22,7 @@ from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta
 from enum import StrEnum
-from typing import Any, Generator, TypeAlias, TypeVar
+from typing import Any, Callable, Generator, TypeAlias, TypeVar
 from urllib.parse import unquote
 
 from bs4 import BeautifulSoup as BS
@@ -35,7 +35,7 @@ from selenium.webdriver.firefox.options import Options
 # Set to none to use default ThreadPoolExecutor quantity
 MAX_WORKERS = 20
 TZ = zoneinfo.ZoneInfo("America/New_York")
-BATCH_SIZE = 20 
+BATCH_SIZE = 20
 
 
 # %%
@@ -319,7 +319,9 @@ def collect_raw_entries() -> list[RawEvent]:
         list[RawEvent|None]: List of raw events.
     """
     with ThreadPoolExecutor(MAX_WORKERS) as executor:
-        return list(itertools.chain.from_iterable(executor.map(batched_fetch_raw_event, batch(event_links, BATCH_SIZE))))
+        return list(
+            itertools.chain.from_iterable(executor.map(batched_fetch_raw_event, batch(event_links, BATCH_SIZE)))
+        )
 
 
 # %%
@@ -335,7 +337,6 @@ raw_entries = collect_raw_entries()
 calendar = [processed for record in raw_entries if (processed := process_event(record))]
 
 # %% is_executing=true
-from typing import Callable
 
 
 def __reduction_function(cal: Calendar, event: tuple[Event, Any]):
