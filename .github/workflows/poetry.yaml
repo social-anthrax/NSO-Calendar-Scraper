@@ -32,7 +32,7 @@ jobs:
         name: Add to nightly release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag: nightly
+          tag: latest
           rm: true
           files: |
             output_calendars/*
