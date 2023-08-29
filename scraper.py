@@ -35,6 +35,7 @@ from selenium.webdriver.firefox.options import Options
 # Set to none to use default ThreadPoolExecutor quantity
 MAX_WORKERS = 20
 TZ = zoneinfo.ZoneInfo("America/New_York")
+BATCH_SIZE = 20 
 
 
 # %%
@@ -82,9 +83,7 @@ for event_anchor in browser.find_elements(By.XPATH, "//a [@rel='bookmark']"):
         By.XPATH, ".//ancestor::li//ul [@class='event-badges']/li/a"
     )  # type:ignore
     # Extract the intended audience from the tags
-    event_type = {Audience(url.accessible_name) for url in event_type_urls} or {
-        Audience.ANY
-    }
+    event_type = {Audience(url.accessible_name) for url in event_type_urls} or {Audience.ANY}
     event_links.append((event_anchor.get_attribute("href"), event_type))  # type: ignore
 event_links  # type: ignore
 
@@ -109,9 +108,7 @@ def _parse_date(str_date: str) -> date:
 def parse_time(str_time: str):
     split = str_time.splitlines()
 
-    t_start = datetime.strptime(
-        split[1].rstrip().removesuffix("-").strip(), "%I:%M %p"
-    ).time()
+    t_start = datetime.strptime(split[1].rstrip().removesuffix("-").strip(), "%I:%M %p").time()
     t_end = datetime.strptime(split[-1].strip(), "%I:%M %p").time()
     return t_start, t_end
 
@@ -171,9 +168,7 @@ def inject_tz_info(cal_content: list[str]) -> list[str]:
         list[str]: Returns the ICS file with the string split into lines.
     """
     iterator = enumerate(cal_content)
-    start_index, dtstart_content = next(
-        x for x in iterator if x[1].startswith("DTSTART:")
-    )
+    start_index, dtstart_content = next(x for x in iterator if x[1].startswith("DTSTART:"))
     end_index, dtend_content = next(x for x in iterator if x[1].startswith("DTEND:"))
 
     def add_tz(line: str):
@@ -202,9 +197,7 @@ Entry: TypeAlias = tuple[Event, set[Audience]]
 
 def batched_fetch_raw_event(record_list: list[EventRecord]) -> list[RawEvent]:
     with webdriver.Firefox(options) as browser:
-        raw_event_list = [
-            get_raw_event(browser, event_record) for event_record in record_list
-        ]
+        raw_event_list = [get_raw_event(browser, event_record) for event_record in record_list]
 
     return raw_event_list
 
@@ -220,9 +213,7 @@ def get_raw_event(browser: webdriver.Firefox, record: EventRecord) -> RawEvent:
 
     # Extract all calendar data.
     try:
-        loc_name = browser.find_element(
-            By.XPATH, "//div [@class='location-title']"
-        ).text
+        loc_name = browser.find_element(By.XPATH, "//div [@class='location-title']").text
     except NoSuchElementException:
         loc_name = None
 
@@ -244,16 +235,12 @@ def get_raw_event(browser: webdriver.Firefox, record: EventRecord) -> RawEvent:
         loc_address = None
 
     try:
-        text_time = browser.find_element(
-            By.XPATH, "//*[@id='single-events-top']/div[1]/p[2]"
-        ).text.strip()
+        text_time = browser.find_element(By.XPATH, "//*[@id='single-events-top']/div[1]/p[2]").text.strip()
     except Exception:
         text_time = None
 
     try:
-        text_date = browser.find_element(
-            By.XPATH, '//*[@id="single-events-top"]/div[1]/p[1]'
-        ).text
+        text_date = browser.find_element(By.XPATH, '//*[@id="single-events-top"]/div[1]/p[1]').text
     except Exception:  # If there's any error then fail to parse
         text_date = None
 
@@ -288,10 +275,7 @@ def process_event(record: RawEvent) -> Entry | None:
             print(f"Entry with url {record.link} has malformed date information")
             return
 
-        print(
-            f"Entry with url {record.link} has malformed date information, "
-            "attempting to parse data"
-        )
+        print(f"Entry with url {record.link} has malformed date information, " "attempting to parse data")
         start_dt, end_dt = parse_datetime(record.text_date, record.text_time)
         cal_content = fix_time(cal_content, start_dt, end_dt)
         event = Calendar(cal_content).events.pop()
@@ -335,11 +319,7 @@ def collect_raw_entries() -> list[RawEvent]:
         list[RawEvent|None]: List of raw events.
     """
     with ThreadPoolExecutor(MAX_WORKERS) as executor:
-        return list(
-            itertools.chain.from_iterable(
-                executor.map(batched_fetch_raw_event, batch(event_links, 5))
-            )
-        )
+        return list(itertools.chain.from_iterable(executor.map(batched_fetch_raw_event, batch(event_links, BATCH_SIZE))))
 
 
 # %%
@@ -354,8 +334,10 @@ raw_entries = collect_raw_entries()
 # %%
 calendar = [processed for record in raw_entries if (processed := process_event(record))]
 
-
 # %% is_executing=true
+from typing import Callable
+
+
 def __reduction_function(cal: Calendar, event: tuple[Event, Any]):
     cal.events.add(event[0])
     return cal
@@ -370,8 +352,13 @@ def reduce_cal(cal_list: list[Entry]) -> Calendar:
     return calendar
 
 
-def create_cal(cal_list: list[Entry], predicates: set[Audience]) -> Calendar:
-    events = [entry for entry in cal_list if predicates.intersection(entry[1])]
+def create_cal(
+    cal_list: list[Entry],
+    intended_audiences: set[Audience],
+    predicate: Callable[[Event], bool] | None = None,
+) -> Calendar:
+    predicate = predicate or (lambda x: True)
+    events = [entry for entry in cal_list if intended_audiences.intersection(entry[1]) and predicate(entry[0])]
     return reduce_cal(events)
 
 
@@ -392,11 +379,19 @@ transfer_calendar = create_cal(calendar, {Audience.TRANSFER, Audience.ANY})
 with open("./output_calendars/transfer_events.ics", "w") as file:
     file.writelines(transfer_calendar.serialize_iter())
 
-# %% is_executing=true magic_args="false" language="script"
-# # Scratch space to figure out how the hell they broke the date time for some events
-# so badly
+# %% magic_args="false --no-raise-error" language="script"
+# # Example on how to filter events based on a predicate. This example will only show events after a certain date
+# monday = datetime.fromisoformat("2023-08-28T23:59:59Z")
+# after_monday: Callable[[Event], bool] = lambda e: e.begin > monday
+# transfer_only_calendar = create_cal(calendar, {Audience.TRANSFER}, after_monday)
 #
-# import datetime
+# with open("./output_calendars/transfer_only_events.ics", "w") as file:
+#     file.writelines(transfer_only_calendar.serialize_iter())
+
+# %% is_executing=true magic_args="false --no-raise-error" language="script"
+# # Scratch space to figure out how the hell they broke the date time for some events
+# # so badly
+#
 # iterator = enumerate(cal_content.splitlines())
 # start_index, start_time = next(x for x in iterator if x[1].startswith("DTSTART:"))
 # end_index, broken_time = next(x for x in iterator if x[1].startswith("DTEND:"))
