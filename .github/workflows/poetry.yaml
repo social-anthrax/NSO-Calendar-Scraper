@@ -1,5 +1,5 @@
 name: CI
-on: push
+on: workflow_dispatch
 
 jobs:
   ci:
@@ -28,9 +28,12 @@ jobs:
       - name: Export Calendars
         run: |
           poetry run python3 ./scraper.py
-      - name: Create Release
-        uses: softprops/action-gh-release@v0.1.15
-        with: 
-          files: 
+      - uses: pyTooling/Actions/releaser@r0
+        name: Add to nightly release
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: nightly
+          rm: true
+          files: |
             output_calendars/*
             
