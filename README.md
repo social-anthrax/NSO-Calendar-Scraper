@@ -22,7 +22,9 @@ The scraper fixes the following issues with the standard NSO calendar entries:
 - Corrects the datetime when NSO manages to set it to the UNIX epoch, or when the end time is after the start time.
 - Adds the mandatory flag to the event name.
 
+<!-- markdownlint-disable MD036 -->
 **WARNING: IF NSO DID NOT MARK THE EVENT AUDIENCE CORRECTLY YOU WILL NOT SEE THE EVENTS, FOR EXAMPLE THE ACTIVITIES FAIR IN 2023 WAS MARKED FOR SECOND YEARS ONLY**
+<!-- markdownlint-enable MD036 -->
 
 ## Usage
 
