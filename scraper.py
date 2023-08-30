@@ -25,6 +25,7 @@ from enum import StrEnum
 from typing import Any, Callable, Generator, TypeAlias, TypeVar
 from urllib.parse import unquote
 import os
+import math
 
 from bs4 import BeautifulSoup as BS
 from ics import Calendar, Event  # type: ignore
@@ -32,6 +33,7 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
+from tqdm import tqdm
 
 # Set to none to use default ThreadPoolExecutor quantity
 MAX_WORKERS = 20
@@ -319,10 +321,16 @@ def collect_raw_entries() -> list[RawEvent]:
     Returns:
         list[RawEvent|None]: List of raw events.
     """
-    with ThreadPoolExecutor(MAX_WORKERS) as executor:
-        return list(
-            itertools.chain.from_iterable(executor.map(batched_fetch_raw_event, batch(event_links, BATCH_SIZE)))
-        )
+    iter_len = math.ceil(len(event_links) / BATCH_SIZE)
+    # This is totally worth it for an extra dependency 💀
+    with tqdm(total=iter_len) as progress:
+        with ThreadPoolExecutor(MAX_WORKERS) as executor:
+            result_list: list[list[RawEvent]] = []
+            for result in executor.map(batched_fetch_raw_event, batch(event_links, BATCH_SIZE)):
+                progress.update()
+                result_list.append(result)
+
+    return list(itertools.chain.from_iterable(result_list))
 
 
 # %%
