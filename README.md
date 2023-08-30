@@ -12,7 +12,7 @@ The calendars are dynamically updated at 1 am every day via github actions so sh
 - Second year students:
 - All events: <https://github.com/social-anthrax/NSO-Calendar-Scraper/releases/download/latest/general_calendar.ics>
 
-## Format
+## Calendar Entries
 
 The scraper fixes the following issues with the standard NSO calendar entries:
 
