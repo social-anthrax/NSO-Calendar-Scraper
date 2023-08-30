@@ -8,8 +8,8 @@ The calendars are dynamically updated at 1 am every day via github actions so sh
 
 - Transfer students: <https://github.com/social-anthrax/NSO-Calendar-Scraper/releases/download/latest/transfer_events.ics>
 - Exchange and IGSP students: <https://github.com/social-anthrax/NSO-Calendar-Scraper/releases/download/latest/exchange_igsp_events.ics>
-- First year students:
-- Second year students:
+- First year students: <https://github.com/social-anthrax/NSO-Calendar-Scraper/releases/download/latest/first_year_events.ics>
+- Second year students: <https://github.com/social-anthrax/NSO-Calendar-Scraper/releases/download/latest/second_year_events.ics>
 - All events: <https://github.com/social-anthrax/NSO-Calendar-Scraper/releases/download/latest/general_calendar.ics>
 
 ## Calendar Entries
