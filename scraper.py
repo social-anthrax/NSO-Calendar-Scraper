@@ -24,6 +24,7 @@ from datetime import date, datetime, timedelta
 from enum import StrEnum
 from typing import Any, Callable, Generator, TypeAlias, TypeVar
 from urllib.parse import unquote
+import os
 
 from bs4 import BeautifulSoup as BS
 from ics import Calendar, Event  # type: ignore
@@ -336,9 +337,8 @@ raw_entries = collect_raw_entries()
 # %%
 calendar = [processed for record in raw_entries if (processed := process_event(record))]
 
+
 # %% is_executing=true
-
-
 def __reduction_function(cal: Calendar, event: tuple[Event, Any]):
     cal.events.add(event[0])
     return cal
@@ -364,21 +364,35 @@ def create_cal(
 
 
 # %%
+if not os.path.isdir("./output_calendars"):
+    os.makedirs("./output_calendars")
+
+
+# %%
+def create_calendar_for(name: str, audience: set[Audience], predicate: Callable[[Event], bool] | None = None):
+    cal = create_cal(calendar, audience, predicate)
+    name = name.removesuffix(".ics")
+    with open(f"./output_calendars/{name}.ics", "w") as file:
+        file.writelines(cal.serialize_iter())
+
+
+# %%
 # Calendar with all events
 general_calendar = reduce_cal(calendar)
 with open("./output_calendars/general_calendar.ics", "w") as file:
     file.writelines(general_calendar.serialize_iter())
 
 # %%
-# Calendar for exchange students only
-exchange_calendar = create_cal(calendar, {Audience.EXCHANGE_IGSP, Audience.ANY})
-with open("./output_calendars/exchange_igsp_events.ics", "w") as file:
-    file.writelines(exchange_calendar.serialize_iter())
+create_calendar_for("exchange_igsp_events", {Audience.EXCHANGE_IGSP, Audience.ANY})
 
 # %%
-transfer_calendar = create_cal(calendar, {Audience.TRANSFER, Audience.ANY})
-with open("./output_calendars/transfer_events.ics", "w") as file:
-    file.writelines(transfer_calendar.serialize_iter())
+create_calendar_for("transfer_events", {Audience.TRANSFER, Audience.ANY})
+
+# %%
+create_calendar_for("first_year_events", {Audience.FIRST_YEAR, Audience.ANY})
+
+# %%
+second_year_calendar = create_calendar_for("second_year_events", {Audience.SECOND_YEAR, Audience.ANY})
 
 # %% magic_args="false --no-raise-error" language="script"
 # # Example on how to filter events based on a predicate. This example will only show events after a certain date

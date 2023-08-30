@@ -4,3 +4,4 @@ nso.html
 .DS_Store
 geckodriver.log
 .vscode
+output_calendars/
