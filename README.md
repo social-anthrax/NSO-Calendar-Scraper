@@ -1,6 +1,6 @@
 # NSO Calendar scraper
 
-A selenium based scraper for the University of [Pennsylvania NSO calendar](https://nso.upenn.edu/events/events-calendar/).
+A selenium based scraper for the [University of Pennsylvania NSO calendar](https://nso.upenn.edu/events/events-calendar/).
 The calendar normally doesn't provide any way of downloading all the applicable events, so this script was created to do just that.
 The generated calendars can be imported into Google Calendar, Outlook, or any other calendar software that supports the iCal format, and can be found in the releases section of this repository here: <https://github.com/social-anthrax/NSO-Calendar-Scraper/releases/tag/latest>
 
