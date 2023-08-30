@@ -27,11 +27,11 @@ jobs:
           key: venv-${{ hashFiles('poetry.lock') }}
       - name: Install the project dependencies
         run: poetry install --no-root
-      - name: Export Calendars
+      - name: Scrape Calendars
         run: |
           poetry run python3 ./scraper.py
       - uses: pyTooling/Actions/releaser@r0
-        name: Add to nightly release
+        name: Add assets to release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: latest
