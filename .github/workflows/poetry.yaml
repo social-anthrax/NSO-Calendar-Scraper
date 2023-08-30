@@ -33,7 +33,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: latest
-          rm: true
           files: |
             output_calendars/*
             
