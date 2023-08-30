@@ -4,7 +4,9 @@ A selenium based scraper for the [University of Pennsylvania NSO calendar](https
 The calendar normally doesn't provide any way of downloading all the applicable events, so this script was created to do just that.
 The generated calendars can be imported into Google Calendar, Outlook, or any other calendar software that supports the iCal format, and can be found in the releases section of this repository here: <https://github.com/social-anthrax/NSO-Calendar-Scraper/releases/tag/latest>
 
-The calendars are dynamically updated at 1 am every day via github actions so should stay up to date. If you'd like to subscribe to the calendars (I don't personally recommend it as you won't be able to delete items, but at least it will stay up to date), copy the links below into your calendar software of choice.
+## Calendars
+
+The calendars are dynamically updated at 1 am every day via github actions so should stay up to date. If you'd like to subscribe to the calendars (I don't personally recommend it as you won't be able to delete items, but at least it will stay up to date), copy the links below into your calendar software of choice as subscriptions. Alternitevely you can download the calendars and import them into your calendar.
 
 - Transfer students: <https://github.com/social-anthrax/NSO-Calendar-Scraper/releases/download/latest/transfer_events.ics>
 - Exchange and IGSP students: <https://github.com/social-anthrax/NSO-Calendar-Scraper/releases/download/latest/exchange_igsp_events.ics>
